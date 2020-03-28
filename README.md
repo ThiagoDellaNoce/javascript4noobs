@@ -1,4 +1,4 @@
-# js4Noobs
+# js4noobs
 <p align="center">
   <br>
   <img src="./images/javascript.png" alt="javascript" width="400">
