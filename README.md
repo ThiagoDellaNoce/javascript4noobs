@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="./images/js.png" alt="javascript" width="450"><br><br>
+  <img src="./images/javascript.png" alt="javascript" width="450"><br><br>
   Tutorial de <b>Javascript</b> para iniciantes na linguagem.
   <p>
     <a href="https://opensource.org/licenses/MIT">
