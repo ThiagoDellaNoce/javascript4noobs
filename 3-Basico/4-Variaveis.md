@@ -20,7 +20,7 @@ Por a **let** ter um comportamento mais previsível, nós evitamos ao máximo o 
 
 E para declaração de constants, variáveis que não serão possíveis atribuir um novo valor, são criada como **const**.
 
-Para usarmos variáveis, podemos fazer:
+### Para usarmos variáveis, podemos fazer:
 
 ```javascript
   let x;
