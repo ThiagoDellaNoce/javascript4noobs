@@ -3,7 +3,7 @@
   <br>
   <img src="./images/javascript.png" alt="javascript" width="450">
 
-  <p>Tutorial de **Javascript** para iniciantes na linguagem.</p>
+  <p align="center">Tutorial de <string>Javascript</string> para iniciantes na linguagem.</p>
   <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="./images/mit.svg" alt="License MIT">
