@@ -1,5 +1,5 @@
 # js4Noobs
-<center>
+<p align="center">
   <br>
   <img src="./images/javascript.png" alt="javascript" width="450">
 
@@ -14,7 +14,7 @@
   | ----------- | ----------- |
   | &nbsp;✔️ | &emsp;Em elaboração |
   | &nbsp;❌ | &emsp;&emsp;Completo |
-</center>
+</p>
 
 ## Módulos
 
