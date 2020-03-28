@@ -22,11 +22,11 @@ Ficamos muito felizes de você ter chegado até aqui no nosso curso! Estaremos t
 para que você saia desse curso entendendo um básico para começar a programar na linguagem Javascript.
 
 >Como iremos inicialmente usar o Github para hospedar o curso, gostariamos de pedir para qualquer dúvida referente à alguma aula ou melhorias que você crie um <i>Issue</i> no nosso repositório, para que assim consigamos resolver e  uma padronização de perguntas/respostas dentro do nosso projeto.
+<br>
+<b>Status do Projeto</b> 
 
-| <b>Flag</b> | <b>Status do Projeto</b> |
-| ----------- | ----------- |
-| ✔️ | Em elaboração |
-| ❌  | Concluido |
+- [x] Em elaboração
+- [ ] Concluído
 
 ## Módulos
 
