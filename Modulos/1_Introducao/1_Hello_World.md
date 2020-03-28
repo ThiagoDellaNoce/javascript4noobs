@@ -1,4 +1,4 @@
-## 1.1 Boas vindas viajante
+## 1.1 Olá viajante...
 
 Bem vindo ao curso de Javascript da He4rt Developers.
 
