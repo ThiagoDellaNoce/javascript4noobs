@@ -1,7 +1,7 @@
 # js4Noobs
 <p align="center">
   <br>
-  <img src="./images/javascript.png" alt="javascript" width="450">
+  <img src="./images/javascript.png" alt="javascript" width="400">
 
   <p align="center">Tutorial de <strong>Javascript</strong> para iniciantes na linguagem.</p>
   <p align="center">
