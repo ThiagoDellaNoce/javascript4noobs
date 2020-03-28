@@ -16,8 +16,8 @@
 
 ### Introdução
 
-1. [Hello World](/1_Introducao/1_Hello_World.md)
-2. [Comunicação](1_Introducao/2_Comunicacao.md)
+1. [Hello World](/Modulos/1_Introducao/1_Hello_World.md)
+2. [Comunicação](/Modulos/1_Introducao/2_Comunicacao.md)
 
 ## Autores
 
