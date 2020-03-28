@@ -1,7 +1,7 @@
-# PHP4Noobs
+# js4Noobs
 
 <h1 align="center">
-  <img src="./images/js.png" alt="php" width="120">
+  <img src="./images/js.png" alt="javascript" width="120">
 </h1>
 
 <p align="center">Tutorial De Javascript para iniciantes na Linguagem.</p>
