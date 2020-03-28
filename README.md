@@ -1,10 +1,15 @@
 # js4Noobs
 
 <h1 align="center">
-  <img src="./images/js.png" alt="javascript" width="120">
+  <br>
+  <img src="./images/js.png" alt="javascript" width="450"><br><br>
+  Tutorial de <b>Javascript</b> para iniciantes na linguagem.
+  <p>
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
+    </a>
+  </p>
 </h1>
-
-<p align="center">Tutorial De Javascript para iniciantes na Linguagem.</p>
 
 ## ROADMAP
 

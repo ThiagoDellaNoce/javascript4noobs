@@ -5,7 +5,7 @@ Sejam bem vindos ao curso de Javascript da He4rt Developers.
 Ficamos muito felizes de você ter chegado até aqui no nosso curso! Estaremos trabalhando nos próximos passos
 para que você saia desse curso entendendo um básico para começar a programar na linguagem Javascript.
 
-JavaScript é uma linguagem de programação que apareceu pela primeira vez em 1995 para dar aos navegadores seu primeiro tipo de funcionalidade inteligente.
+JavaScript é uma linguagem de programação que apareceu pela primeira vez na década de 90, com o intuito de dar aos navegadores seu primeiro tipo de funcionalidade inteligente.
 
 O JavaScript moderno é realmente um alvo amplo e comovente. Você pode ter aprendido JavaScript há cinco anos e algumas dessas técnicas podem ser consideradas antigas pelos padrões de hoje, assim como você conhece técnicas de JavaScript de mais de 20 anos atrás, que ainda são consideradas práticas recomendadas modernas. 
 Aqui no nosso curso daremos um guia através dos vários detalhes de JavaScript para aprender o JavaScript moderno, como é conhecido hoje.
