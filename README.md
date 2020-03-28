@@ -25,8 +25,8 @@ para que você saia desse curso entendendo um básico para começar a programar 
 
 | <b>Flag</b> | <b>Status do Projeto</b> |
 | ----------- | ----------- |
-| &nbsp;✔️ | &emsp;Em elaboração |
-| &nbsp;❌  | &emsp;&emsp;Concluido |
+| ✔️ | Em elaboração |
+| ❌  | Concluido |
 
 ## Módulos
 
