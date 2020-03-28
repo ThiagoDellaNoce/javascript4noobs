@@ -3,17 +3,21 @@
   <br>
   <img src="./images/javascript.png" alt="javascript" width="450">
 
-  ## Tutorial de **Javascript** para iniciantes na linguagem.
+  <p>Tutorial de **Javascript** para iniciantes na linguagem.</p>
+  <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="./images/mit.svg" alt="License MIT">
   </a>
+  </p>
   <br>
   <br>
-
+  <p align="center">
+  
   | **Flag**| **Status do Projeto** |
   | ----------- | ----------- |
   | &nbsp;✔️ | &emsp;Em elaboração |
   | &nbsp;❌ | &emsp;&emsp;Completo |
+  </p>
 </p>
 
 ## Módulos
