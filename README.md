@@ -1,6 +1,6 @@
 # JS4Noobs
 
-<p align="enter>
+<p align="center">
 
   ![javascript](assets/javascript.png)
   
