@@ -1,6 +1,6 @@
 # JS4Noobs
 
-<center>
+<p align="enter>
 
   ![javascript](assets/javascript.png)
   
@@ -8,7 +8,7 @@
 
 
   <a href="https://opensource.org/licenses/MIT">![License MIT](assets/mit.svg)</a>
-</center>
+</p>
 
 ## Sobre o Projeto
 
