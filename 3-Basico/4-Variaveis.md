@@ -1,4 +1,4 @@
-## Variáveis
+# 3.4 - Variáveis
 
 As variáveis ​​podem ser consideradas como contêineres que permitem armazenar dados sobre elas.
 Isso nos ajudará a escrever o código, permitindo salvar e reutilizar quaisquer dados para atingir seu objetivo.
@@ -20,7 +20,7 @@ Por a **let** ter um comportamento mais previsível, nós evitamos ao máximo o 
 
 E para declaração de constants, variáveis que não serão possíveis atribuir um novo valor, são criada como **const**.
 
-### Para usarmos variáveis, podemos fazer:
+Para usarmos variáveis, podemos fazer:
 
 ```javascript
   let x;
