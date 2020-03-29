@@ -1,6 +1,6 @@
 # 3.4 - Variáveis
 
-As variáveis ​​podem ser consideradas como contêineres que permitem armazenar dados sobre elas.
+Descrição: As variáveis ​​podem ser consideradas como contêineres que permitem armazenar dados sobre elas.
 Isso nos ajudará a escrever o código, permitindo salvar e reutilizar quaisquer dados para atingir seu objetivo.
 
 Existem 3 maneiras de declarar variáveis:
@@ -9,16 +9,19 @@ Existem 3 maneiras de declarar variáveis:
 - let
 - const
 
-o problema que temos com a variável var é que ela tem um pequeno problema de escopo.
+o problema que temos com a variável `var` é que ela tem um pequeno problema de ESCOPO.
 
-### Mas o que é escopo?
+### Mas o que é ESCOPO?
 
-A grande maioria das linguagens possui o conceito de escopos, e JavaScript não é diferente. Escopo é a acessibilidade de objetos, variáveis e funções em diferentes partes do código.
-Em outras palavras, o que determina quais são os dados que podem ser acessados em uma determinada parte do código é o escopo.
+Descrição: A grande maioria das linguagens possui o conceito de ESCOPO, e JavaScript não é diferente.
+ESCOPO é a acessibilidade de objetos, variáveis e funções em diferentes partes do código.
 
-Por a **let** ter um comportamento mais previsível, nós evitamos ao máximo o uso da **var**.
+Em outras palavras, o que determina quais são os dados que podem ser acessados em uma determinada parte do código é o ESCOPO.
 
-E para declaração de constants, variáveis que não serão possíveis atribuir um novo valor, são criada como **const**.
+Nós evitamos ao máximo o usa da `var`, porque a `let`
+Por a **`let`** ter o escopo melhor definido e ter comportamento menos inesperado que a **`var`**, nós evitamos ao máximo o uso da **`var`** usando assim sempre que possível a **`let`**.
+
+E para declaração de constantes, cujo valor é fixo que não serão possíveis atribuir um novo valor, são criada como **`const`**.
 
 Para usarmos variáveis, podemos fazer:
 
