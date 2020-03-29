@@ -1,13 +1,14 @@
 # JS4Noobs
-
 <p align="center">
+  <img src="./assets/javascript.png" alt="javascript">
 
-  ![javascript](assets/javascript.png)
-  
-  Tutorial de <strong>Javascript</strong> para iniciantes na linguagem.
-
-
-  <a href="https://opensource.org/licenses/MIT">![License MIT](assets/mit.svg)</a>
+  <p align="center">Tutorial de <strong>Javascript</strong> para iniciantes na linguagem.</p>
+  <p align="center">
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="./assets/mit.svg" alt="License MIT">
+    </a>
+  </p>
+  <br>
 </p>
 
 ## Sobre o Projeto
