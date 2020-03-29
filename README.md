@@ -34,7 +34,7 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 
 >*Essa é uma parte complementar, dados teóricos sobre a linguagem, para um conhecimento histórico, não técnico. (Não obrigatório)*
 
-1. [O JavaScript](/Modulos/1_Resumo/1_Resumo.md#JavaScript)
+1. [JavaScript](/Modulos/1_Resumo/1_Resumo.md#JavaScript)
 2. [História](/Modulos/1_Resumo/1_Resumo.md#História)
 
 ## Autores
