@@ -9,9 +9,7 @@ Descrição: Exibe uma mensagem no console do navegador.<br><br>
 
 Quando nós fizermos qualquer tipo de código, precisaremos entender se ele funcionou ou não. Na maior parte do tempo, iremos usar o `console.log()` para fazer essa verificação. Com esta função a mensagem, variável ou oque quisermos, será imprimido no console.<br>
 
-Veja este primeiro exemplo:
-
-Código
+Veja este primeiro exemplo:<br>
 ```javascript
 console.log("He4rtDevs <3"); // He4rtDevs <3
 
@@ -21,16 +19,11 @@ console.log([1, 2, 3]); // [1, 2 , 3]
 
 console.log({ curso: "js4noobs" }); // { curso: "js4noobs" }
 ```
-<center>
-    Podemos executar esse código no próprio navegador, usando o console do navegador com F12
-</center>
 
 A saida no navegador:
-<center>
-
-![Exemplo de Saida no Navegador](../assets/3-1-saida-exemplo.png#thumbnail)
-
-
-*Imagem 1 - Tela do navegador chrome, utilizando o console*
-</center>
-<br>
+<p align="center">
+    <img src="../assets/3-1-saida-exemplo.png" alt="Tela do navegador chrome, utilizando o console" />
+</p>
+<span align="center">
+    Imagem 1 - Tela do navegador chrome, utilizando o console.
+</span>
