@@ -5,7 +5,7 @@
   <p align="center">Tutorial de <strong>Javascript</strong> para iniciantes na linguagem.</p>
   <p align="center">
     <a href="https://opensource.org/licenses/MIT">
-      <img src="./assets/mit.svg" alt="License MIT">
+      <img src="https://img.shields.io/github/license/ThiagoDellaNoce/javascript4noobs" alt="License MIT">
     </a>
   </p>
   <br>
