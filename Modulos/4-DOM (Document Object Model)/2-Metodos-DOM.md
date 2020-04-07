@@ -1,11 +1,10 @@
 # 2 - Métodos do DOM
 
+Descrição: Através do DOM pode-se ter acesso às propriedades. Estas propriedades servem para poder pegar (`get`) e alterar (`set`) os elementos que foram processados. 
 
+O DOM nos dá acesso também aos métodos, os quais são ações que conseguimos desempenhar na nossa aplicação. Estas ações podem ser, adicionar, remover, alterar entre diversas outras coisas.
 
-
-A property is a value that you can get or set (like changing the content of an HTML element).
-
-A method is an action you can do (like add or deleting an HTML element).
+Um exemplo do método é o  `document.getElementById()`, veja a seguir:
 
 ```javascript
     <p id="demo"></p>
@@ -14,42 +13,19 @@ A method is an action you can do (like add or deleting an HTML element).
     document.getElementById("demo").innerHTML = "He4rt Devs!";
     </script>
 ```
-
-In the example acima, getElementById is a method, while innerHTML is a property.
-
-## The getElementById Method
-
-The most common way to access an HTML element is to use the id of the element.
-
-In the example above the getElementById method used id="demo" to find the element.
+Neste exemplo, usamos o método `getElementById` e a propriedade `innerHTML`.
 
 
+## Métodos de acessando um elemento HTML
 
-## The innerHTML Property
+Métodos para encontrar um ou mais elementos no DOM.
 
-The easiest way to get the content of an element is by using the innerHTML property.
-
-The innerHTML property is useful for getting or replacing the content of HTML elements.
-
-
-## Finding HTML Elements
-
-Below are some examples of how you can use the document object to access and manipulate HTML.
-
-| Method                                 |  Description                   |
-| -------------------------------------- | ------------------------------ |
-| document.getElementById(id)            |  Find an element by element id |
-| document.getElementsByTagName(name)    |  Find elements by tag name     |
-| document.getElementsByClassName(name)  |  Find elements by class name   |
+| Método                                 |  Descrição                                                        |
+| -------------------------------------- | ----------------------------------------------------------------- |
+| document.getElementById(id)            |  Encontra um elemento por seu Id                                  |
+| document.getElementsByClassName(nome)  |  Encontra um elemento pela classe                                 |
+| document.getElementsByTagName(tag)     |  Encontra um elemento pela sua tag HTML                           |
+| document.querySelector(nome)           |  Encontra o primeiro elemento com o valor informado (id,nome,tag) |
+| document.querySelectorAll(name)        |  Encontra todos os elementos com o valor informado (id, nome,tag) |
 
 ## Changing HTML Elements
-
-| Property                                  |	Description                                      | 
-| ---------------------------------------------------------------------------------------------- |
-| element.innerHTML =  new html content	    |    Change the inner HTML of an element             |
-| element.attribute = new value	            |    Change the attribute value of an HTML element   |
-| element.style.property = new style	    |    Change the style of an HTML element             |
-
-| Method	                                |   Description                                      |
-| ---------------------------------------------------------------------------------------------- |
-| element.setAttribute(attribute, value)	|   Change the attribute value of an HTML element    |
