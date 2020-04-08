@@ -36,4 +36,3 @@ Basicamente caso eu precisar multiplicar um número com outro eu preciso fazer o
 ### para que isso?
 
 Nós podemos *reutilizar os códigos* a partir de funções, por exemplo sempre que precisarmos multiplicar números, podemos usar a função citada acima.
-

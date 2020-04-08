@@ -29,18 +29,9 @@ Métodos para encontrar um ou mais elementos no DOM.
 | document.querySelectorAll(name)        |  Encontra todos os elementos com o valor informado (id, nome,tag) |
 
 ## Changing HTML Elements
-<<<<<<< HEAD
-=======
 
-| Property                                  |	Description                                    | 
-| -------------------------------------------------------------------------------------------- |
-| element.innerHTML =  new html content	    |    Change the inner HTML of an element           |
-| element.attribute = new value	            |    Change the attribute value of an HTML element |
-| element.style.property = new style	    |    Change the style of an HTML element           |
+// TODO: Elements
+// .parentNode, .firstElementChild, .lastElementChild
 
-ou então: 
-
-| Method	                                |   Description                                    |
-| -------------------------------------------------------------------------------------------- |
-| element.setAttribute(attribute, value)	|   Change the attribute value of an HTML element  |
->>>>>>> 936e17ab0e2395e82b6843df71b5c28ca8a6a08f
+// TODO: eventos
+// click, select, 

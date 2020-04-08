@@ -48,3 +48,23 @@ while (condicao) {
 ```
 
 O teste da condição ocorre antes que o laço seja executado.
+
+### FOR.. IN
+
+O laço `for.. in` passa por todas propriedades de um objeto.
+
+```javascript
+for ( [variavel] in [objeto]) {
+  // ações a serem feitas
+}
+```
+
+### FOR.. OF
+
+O laço `for.. of` passa por todos os elementos de um coleção (`Array`, `Map`, `Set`, `Arguments`, `Object`).
+
+```javascript
+for ([variavel] of [objeto]) {
+  // ações a serem feitas
+}
+```
