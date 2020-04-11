@@ -1,4 +1,4 @@
-# JS4Noobs
+# Javascript4Noobs
 <p align="center">
   <img src="./assets/javascript.png" alt="javascript">
 
