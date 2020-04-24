@@ -1,4 +1,4 @@
-# 3.5 - Operadores Aritméticos
+# 4.5 - Operadores Aritméticos
 
 Descrição: Operadores aritméticos tomam valores numéricos como seus operandos e retornam um único valor númerico.
 

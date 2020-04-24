@@ -1,4 +1,4 @@
-# 3.1 - Funções de Saída
+# 4.1 - Funções de Saída
 
 Após o nosso ambiente montado com todas as ferramentas necessárias, iremos começar a ver algum código na prática. <br>
 Como iremos usar o nosso console em uma boa parte do curso, precisaremos de algumas funções para nos auxiliar a visualizar qualquer saída de dados do nosso código. E nessa lição, iremos conhecer essas funções.<br>

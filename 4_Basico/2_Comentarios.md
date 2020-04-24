@@ -1,4 +1,4 @@
-# 3.2 - Comentários
+# 4.2 - Comentários
 
 Descrição: Um comentário é uma parte de código que não é interpretada pelo navegador. Pode ser utilizada, também, para colocar textos que ajudam a identificar o que está sendo feito naquele trecho de código. Pensando num trabalho em equipe, esta é uma excelente prática.
 

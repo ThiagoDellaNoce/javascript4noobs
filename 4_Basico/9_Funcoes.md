@@ -1,4 +1,4 @@
-### Funções
+# 4.8 - Funções
 
 Descrição: é um bloco de códigos, que conseguimos utilizar sempre que chamarmos em qualquer parte da nossa aplicação, para realizar uma ação.
 

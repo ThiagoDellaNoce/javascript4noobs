@@ -1,4 +1,4 @@
-# 3.6 - Operadores
+# 4.6 - Operadores
 
 ## Lógicos
 

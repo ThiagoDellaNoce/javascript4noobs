@@ -1,4 +1,4 @@
-# 3.8 - Estruturas de repetição (laços)
+# 4.8 - Estruturas de repetição (laços)
 
 Descrição: Estruturas de repetição, também chamados de laços, são uma maneira fácil e rápido de executar uma ação várias vezes com pouco código.
 

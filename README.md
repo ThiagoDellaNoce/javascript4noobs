@@ -23,19 +23,38 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 
 >*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um **Issue** neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
 
-#### Status do Projeto
-
-- [x] Em elaboração
-- [ ] Concluído
 
 ## Módulos
 
+### Introdução
+1. [Hello World](/1_Introducao/1_Hello-World.md)
+
 ### Resumo
+1. [Resumo](/2_Resumo/1_Resumo.md)
 
->*Essa é uma parte complementar, dados teóricos sobre a linguagem, para um conhecimento histórico, não técnico. (Não obrigatório)*
+### Ambiente
+1. [Editores e plugins](/3_Ambiente/1_Editores-e-plugins.md)
 
-1. [JavaScript](/Modulos/1_Resumo/1_Resumo.md#JavaScript)
-2. [História](/Modulos/1_Resumo/1_Resumo.md#História)
+### Básico
+1. [Saída](/4_Basico/1_Saida.md)
+2. [Comentários](/4_Basico/2_Comentarios.md)
+3. [Tipos de dados](/4_Basico/3_Tipos-de-dados.md)
+4. [Variáveis](/4_Basico/4_Variaveis.md)
+5. [Operadores Aritméticos](/4_Basico/5_Operadores-Aritmeticos.md)
+6. [Operadores Lógicos](/4_Basico/6_Operadores-Logicos.md)
+7. [Condicionais](/4_Basico/7_Condicionais.md)
+8. [Estruturas de repetição](/4_Basico/8_Estruturas-de-repeticao.md)
+9. [Funções](/4_Basico/9_Funcoes.md)
+10. [Exceptions](/4_Basico/10_Exceptions.md)
+
+### DOM (Document Object Model)
+1. [Introdução](/5_DOM-DocumentObjectModel/1_Introducao.md)
+2. [Métodos do DOM](/5_DOM-DocumentObjectModel/2_Metodos-DOM.md)
+3. [Métodos de Acesso ao DOM](/5_DOM-DocumentObjectModel/3_Acessando-Elementos.md)
+4. [Métodos de Alteração do DOM](/5_DOM-DocumentObjectModel/4_Alterando-Elementos.md)
+5. [Métodos de Remoção de elementos do DOM](/5_DOM-DocumentObjectModel/5_Removendo-Elementos.md)
+6. [Event Handlers](/5_DOM-DocumentObjectModel/6_Event-Handlers.md)
+6. [Event Listener](/5_DOM-DocumentObjectModel/7_Event-Listener.md)
 
 ## Autores
 

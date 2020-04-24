@@ -1,4 +1,4 @@
-# 1 - Introdução a DOM (Documento Object Model)
+# 5.1 - Introdução a DOM (Documento Object Model)
 
 Descrição: Sempre que uma página é carregada, o navegador cria um *DOM* (Document Object Model ) para a gente.
 

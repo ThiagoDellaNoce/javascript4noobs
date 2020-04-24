@@ -1,4 +1,4 @@
-# 3.3 - Tipo de dados primitivos
+# 4.3 - Tipo de dados primitivos
 
 ## Tipagem dinâmica
 
@@ -75,7 +75,7 @@ Podemos declarar `Objetos` com chaves { }, segue a mesma regra dos `Arrays` pore
 
 Não temos restrição para o valor que cada chave recebe, pode ser um valor `Boolean`, `Array`, `Number`, `String`, etc...
 
-### Null e Undefined (\*bonus)
+### Null e Undefined
 
 Descrição: O tipo `Null` tem exatamente um valor: `null`(nulo).
 
