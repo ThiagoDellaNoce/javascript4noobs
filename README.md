@@ -53,12 +53,11 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 3. [Métodos de Acesso ao DOM](/5_DOM-DocumentObjectModel/3_Acessando-Elementos.md)
 4. [Métodos de Alteração do DOM](/5_DOM-DocumentObjectModel/4_Alterando-Elementos.md)
 5. [Métodos de Remoção de elementos do DOM](/5_DOM-DocumentObjectModel/5_Removendo-Elementos.md)
-6. [Event Handlers](/5_DOM-DocumentObjectModel/6_Event-Handlers.md)
-6. [Event Listener](/5_DOM-DocumentObjectModel/7_Event-Listener.md)
+6. [Event Handlers](/5_DOM-DocumentObjectModel/7_Event-Handlers.md)
+7. [Event Listener](/5_DOM-DocumentObjectModel/8_Event-Listener.md)
 
 ## Autores
 
 - **Thiago Della Noce** - _Front-end Developer_ - [Linkedin](https://www.linkedin.com/in/thiagodellanoce/)
-- **Vinicius Silva** - _Front-end Developer_ - [Linkedin](https://www.linkedin.com/in/silv-vinicius/)
 
 <p align="center">Made with 💜<br>He4rt Developers</p>

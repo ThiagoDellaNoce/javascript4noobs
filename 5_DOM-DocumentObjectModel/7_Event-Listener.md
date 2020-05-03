@@ -10,6 +10,6 @@
 element.addEventListener(event, function);
 ```
 
-1. O primeiro parâmetro é o tipo do evento (como "`click`" ou "`mousedown`" ou qualquer outro evento HTML DOM).
+1. O primeiro parâmetro é o tipo de evento (como explicado em [Event Handlers](/5_DOM-DocumentObjectModel/7_Event-Handlers.md)).
 
 2. O segundo parâmetro é a função que queremos chamar quando o evento ocorrer.
