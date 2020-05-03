@@ -54,9 +54,13 @@ O teste da condição ocorre antes que o laço seja executado.
 O laço `for.. in` passa por todas propriedades de um objeto.
 
 ```javascript
-for ( [variavel] in [objeto]) {
+const numeros = [1,2,3,4,5];
+for ( numero in numeros) {
   // ações a serem feitas
+  console.log(numero);
 }
+
+// resultado: 1, 2, 3, 4, 5
 ```
 
 ### FOR.. OF
@@ -64,7 +68,11 @@ for ( [variavel] in [objeto]) {
 O laço `for.. of` passa por todos os elementos de um coleção (`Array`, `Map`, `Set`, `Arguments`, `Object`).
 
 ```javascript
-for ([variavel] of [objeto]) {
+const numeros = [1,2,3,4,5];
+for (numero of numeros) {
   // ações a serem feitas
+  console.log(numero);
 }
+
+// resultado: 0, 1, 2, 3, 4
 ```

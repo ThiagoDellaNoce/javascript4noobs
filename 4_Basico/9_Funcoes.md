@@ -33,6 +33,6 @@ Basicamente caso eu precisar multiplicar um número com outro eu preciso fazer o
     console.log(resultado);// mostra no console o resultado (4)
 ```
 
-### para que isso?
+### Para que isso?
 
 Nós podemos *reutilizar os códigos* a partir de funções, por exemplo sempre que precisarmos multiplicar números, podemos usar a função citada acima.

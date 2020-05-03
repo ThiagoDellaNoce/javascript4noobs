@@ -13,7 +13,7 @@ Veja o código abaixo:
 
 ```javascript
 // Este é um comentário q vai explicar tudo abaixo
-echo "He4rtDevs <3";
+console.log("He4rtDevs <3");
 // E também não será interpretado, quer ver?
 // console.log("Nada vai aparecer");
 ```

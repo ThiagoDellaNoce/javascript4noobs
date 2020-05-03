@@ -56,7 +56,7 @@ Os trabalhos em cima da normativa ECMA-262 começaram em Novembro de 1996. O nom
 
 O ECMAScript esteve relativamente estagnado até 2015 com o aparecimento do *ECMAScript 6* - antes disso, o ECMAScript 3 foi publicado em 1999, o ECMAScript 4 foi abandonado, o ECMAScript 5 foi publicado em 2009 e o ECMAScript 5.1 foi publicado em 2011. 
 
-O lançamento do ECMAScript 6 em 2015 marcou mudanças significativas para abordar os recursos exigidos pelo crescimento explosivo do JavaScript. E a velocidade das alterações de recursos foi tão grande que o ECMAScript 7 se tornou realidade em 2016 e o ​​ES8 em 2017.
+O lançamento do ECMAScript 6 em 2015 marcou mudanças significativas para abordar os recursos exigidos pelo crescimento explosivo do JavaScript. E a velocidade das alterações de recursos foi tão grande que o ECMAScript 7 se tornou realidade em 2016 e o ​​ES8 em 2017. E hoje em dia temos o ECMAScript 11.
 
 #### Por que isso é importante?
 

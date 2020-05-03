@@ -1,0 +1,26 @@
+1 Funções de Saída
+Abordar os outros métodos do console (warn, error, dir) por ex
+
+3 Tipos de dados primitivos
+Faltou o BigInt e o Symbol
+
+5 Operadores aritméticos
+Faltou abordar o --, ++, - antes de variavel e + antes de variável
+
+9 Funções
+(IMPORTANTE) Explicar sobre funções anônimas e a diferença no contexto (this e nome da função)
+
+
+10 Exceptions
+Adicionar um exemplo de como o try catch funciona
+Explicar como dar throw num Error()
+
+7 Event Listener
+A explicação do que é um evento ta muito simples, achei confuso tmb
+
+Não sei se eu to maluco mas em algum lugar eu tinha lido a relação de es6 com Ecmascript 2016 e tá errado, o ES6 é o ES2015
+
+explicar sobre promises, 
+sobre alguns métodos do Array (map, filter, sort, find etc), 
+spread operator 
+talvez sobre o this

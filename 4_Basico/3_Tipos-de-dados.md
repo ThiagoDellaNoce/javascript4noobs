@@ -51,7 +51,7 @@ Normalmente os valores desse tipo, a gente consegue atraves de uma condição po
 
 Descrição: `Array` é uma variável ​​que contêm vários valores. ele é comumente usados ​​para armazenar um grupo de valores relacionados.
 
-Os `Arrays` podem armazenar números (`Numbers`), seqüências de caracteres (`Strings`), `Booleans` ou `Null`.
+Os `Arrays` podem armazenar números (`Numbers`), sequências de caracteres (`Strings`), `Booleans` ou `Null`.
 
 Podemos declarar um `Array` com colchetes [ ], todo e qualquer tipo de dados que estiver dentro dele vai ser armazenado, exemplo:
 
