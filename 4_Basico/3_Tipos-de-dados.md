@@ -47,6 +47,12 @@ Normalmente os valores desse tipo, a gente consegue atraves de uma condição po
     
     1 == 1 (mesma coisa que 1 é igual a 1) essa condição nos retorna um valor Boolean, sendo que pode ser `true` ou `false`
 
+### bigInt
+
+Descrição: É um tipo de dado numérico que representa inteiros no formato de precisão arbritrária. Em outras linguagens de programação existem tipos numéricos diferentes, como por exemplo: Integers, Floats, Doubles ou Bignums.
+
+###
+
 ### Arrays
 
 Descrição: `Array` é uma variável ​​que contêm vários valores. ele é comumente usados ​​para armazenar um grupo de valores relacionados.
