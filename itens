@@ -1,15 +1,4 @@
-
-4 Funções
-(IMPORTANTE) Explicar sobre funções anônimas e a diferença no contexto (this e nome da função)
-
-5 Exceptions
-Adicionar um exemplo de como o try catch funciona
-Explicar como dar throw num Error()
-
 -- MODULOS NOVO --
-
-explicar sobre promises, 
-
-métodos do Array (map, filter, sort, find etc),
-
-spread operator
+1. explicar sobre promises, 
+2. métodos do Array (map, filter, sort, find etc),
+3. spread operator'
