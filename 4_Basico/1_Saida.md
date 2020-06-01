@@ -78,7 +78,7 @@ Nesse caso, nada será impresso, afinal, 9 é maior que 8 e o primeiro argumento
 
 Descrição: Exibe no console o número de vezes em que a chamada `count()` em particular foi invocada.
 
-```javascript
+```js
 let label = "";
 
 function consoleLabel() {
@@ -92,12 +92,15 @@ label = "devs";
 consoleLabel();
 consoleLabel();
 console.count();
+```
 
-// saida
-//"he4rt: 1"
-//"devs: 1"
-//"devs: 2"
-//"devs: 3"
+Saída:
+
+```
+he4rt: 1
+devs: 1
+devs: 2
+devs: 3
 ```
 
 ### dir
