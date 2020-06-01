@@ -108,14 +108,32 @@ devs: 3
 Descrição: Exibe uma lista interativa das propriedades do objeto JavaScript especificado. A saída é apresentada como uma lista hierárquica com triângulos que permitem ver o conteúdo de objetos-filho.
 
 ```javascript
-let comunidade = {
+const comunidade = {
   nome: "he4rt",
 };
 
 console.dir(comunidade);
+```
 
-// Object
-// nome: "he4rt";
+Saída no NodeJS:
+
+```
+nome: 'he4rt';
+```
+
+Saída no browser:
+
+```
+▶ Object
+```
+
+Caso clique no triângulo:
+
+```
+▼ Object
+    nome: "he4rt"
+  ▶ __proto__: Object
+
 ```
 
 ### error & exception
