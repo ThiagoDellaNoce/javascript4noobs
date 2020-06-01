@@ -1,34 +1,54 @@
 # 4.1 - Funções de Saída
 
-Após o nosso ambiente montado com todas as ferramentas necessárias, iremos começar a ver algum código na prática. <br>
-Como iremos usar o nosso console em uma boa parte do curso, precisaremos de algumas funções para nos auxiliar a visualizar qualquer saída de dados do nosso código. E nessa lição, iremos conhecer essas funções.<br>
+Após o nosso ambiente montado com todas as ferramentas necessárias, vamos agora ver um código na prática.
+
+Como iremos usar o nosso console em uma boa parte do curso, precisaremos de algumas funções para nos auxiliar a visualizar qualquer saída de dados do nosso código. Nessa lição, iremos conhecer essas funções.
 
 ## Função -> Console.log()
 
-Descrição: Exibe uma mensagem no console do navegador.<br><br>
+Descrição: Exibe uma mensagem no console do navegador.
 
-Quando nós fizermos qualquer tipo de código, precisaremos entender se ele funcionou ou não. Na maior parte do tempo, iremos usar o `console.log()` para fazer essa verificação. Com esta função a mensagem, variável ou oque quisermos, será imprimido no console.<br>
+Sempre que fizermos um trecho de código, precisamos entender se ele funcionou ou não.
+Na maior parte do tempo, iremos usar o `console.log()` para fazer essa verificação.
+Utilizando essa função, a mensagem, variável ou o que quisermos, será impresso no console.
 
-Veja este primeiro exemplo:<br>
+Veja este primeiro exemplo:
 
-```javascript
-console.log("He4rtDevs <3"); // He4rtDevs <3
+```js
+console.log("He4rtDevs <3");
 
-console.log(123); // 123
+console.log(123);
 
-console.log([1, 2, 3]); // [1, 2 , 3]
+console.log([1, 2, 3]);
 
-console.log({ curso: "js4noobs" }); // { curso: "js4noobs" }
+console.log({ curso: "js4noobs" });
 ```
 
-A saida no navegador:
+Saída rodando o código no NodeJS:
+
+```
+He4rtDevs <3
+123
+[1, 2, 3]
+{ curso: "js4noobs" }
+```
+
+A saida rodando o código no navegador:
 
 <p align="center">
-    <img src="../assets/3-1-saida-exemplo.png" alt="Tela do navegador chrome, utilizando o console" />
+  <img src="../assets/3-1-saida-exemplo.png" alt="Tela do navegador chrome, utilizando o console" />
 </p>
-<span align="center">
-    Imagem 1 - Tela do navegador chrome, utilizando o console.
-</span>
+<center>
+  Imagem 1 - Tela do navegador chrome, utilizando o console.
+</center>
+
+### Algumas observações:
+
+Como é possível notar, o `console.log()` automaticamente faz uma quebra de linha após fazer uma impressão.
+
+É interessante notar também que quando passamos um array (no caso o `[1,2,3]`), os valores são impressos dentro dos colchetes, reforçando que é um array. No caso de visualizar no console do browser ainda é possível clicar naquela setinha que está à esquerda no começo da linha para expandir as informações do array.
+
+Algo semelhante ocorre quando passamos um objeto (no caso o `{ curso: "js4noobs" }`), os campos são impressos dentro de chaves, reforçando que aquelas informações fazem parte de um objeto. Novamente, visualizar no console do browser também traz vantagens, pois é possível clicar naquela setinha que está à esquerda no começo da linha para expandir as informações do objeto.
 
 ## Outras funções do Console
 
