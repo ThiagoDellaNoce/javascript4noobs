@@ -1,4 +1,4 @@
-# 5.6 - Event Handler
+# 5.6 - Event Handlers
 
 - Podemos executar um script quando um evento ocorre.
 
