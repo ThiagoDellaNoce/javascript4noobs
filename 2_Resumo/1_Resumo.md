@@ -4,7 +4,7 @@
 
 O JavaScript é uma linguagem de programação interpretada, conhecida também como linguagem de script em alto nível para páginas Web, sendo uma linguagem leve e multi-paradigma, consistindo as três tecnologias principais da World Wide Web.
 
-Permitindo tornar as aplicações interativas, o JavaScript é uma parte essencial da web, compondo a grande maioria dos sites disponíveis e também ganhando um espaço dedicado do mecanismo dos principais navegadores acessíveis.
+Permitindo tornar as aplicações interativas, o JavaScript é uma parte essencial da web, compondo a grande maioria dos sites disponíveis e também ganhando um espaço dedicado do motor dos principais navegadores acessíveis.
 
 **Nota:**
 Nem todos os motores fazem somente interpretação do código.
@@ -66,7 +66,7 @@ O lançamento do ECMAScript 6 em 2015 marcou mudanças significativas para abord
 
 Porque você enfrentará constantemente situações em que o JavaScript comum é compatível com ES5 / ES5.1, ES6, ES7 ou ES8.
 
-Será JavaScript da mesma forma, mas não será executado em todos os mecanismos JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES. A seguir, é apresentada uma lista dos principais mecanismos JavaScript e seu suporte a ES:
+Será JavaScript da mesma forma, mas não será executado em todos os motores JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES. A seguir, é apresentada uma lista dos principais motores JavaScript e seu suporte a ES:
 
  - SpiderMonkey - Usado pelo navegador Firefox e Adobe Acrobat. Suporta ES5.1, recursos do ES6, ES7 e ES8.
  - V8 - Usado pelo navegador Google Chrome, Opera e Node.js. Suporta ES6 e recursos do ES7 e ES8.
