@@ -234,7 +234,14 @@ Descrição: Escreve uma mensagem de alerta no Console Web.
 
 Usado para mostrar mensagens de erro para o usuário pelo console.
 
-```javascript
+```js
 console.warn("Texto de alerta!");
-// Texto de alerta!
 ```
+
+Saída:
+
+```
+Texto de alerta!
+```
+
+Caso rode no browser, note que a linha onde é impresso o texto toma a cor amarela.
