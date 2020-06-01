@@ -54,13 +54,25 @@ Algo semelhante ocorre quando passamos um objeto (no caso o `{ curso: "js4noobs"
 
 ### Assert
 
-Descrição: Escreve uma mensagem de erro para o `console` se a afirmação é `false`. Se a firmação é `true`, nada acontece.
+Descrição: Escreve uma mensagem de erro para o `console` caso a expressão passada como primeiro argumento resulte em `false`. Case resulte em `true`, nada acontece.
 
-```javascript
-let boolean = false;
+```js
+const boolean = false;
 console.assert(boolean, "mensagem a ser exibida se o boolean for falso");
-// mensagem a ser exibida se o boolean for falso.
 ```
+Saída:
+
+```
+mensagem a ser exibida se o boolean for falso.
+```
+
+No caso acima, usamos uma simples variável contendo um valor booleano, mas poderia ser uma expressão mais complexa, por exemplo:
+
+```js
+console.assert((5 + 4) > 8, "mensagem a ser exibida se o boolean for falso");
+```
+
+Nesse caso, nada será impresso, afinal, 9 é maior que 8 e o primeiro argumento receberá o valor `true`.
 
 ### count
 
