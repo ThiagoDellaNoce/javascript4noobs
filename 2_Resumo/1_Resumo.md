@@ -27,7 +27,7 @@ Em 1995 a Netscape contratou Brendan Eich para criar uma linguagem que proporcio
 
 Obviamente predominou a escolha de uma única linguagem com a sintaxe baseada em Java. O argumento foi que o Scheme, por ter uma sintaxe e complexidade características de linguagens funcionais, se tornaria impopular (conforme o código abaixo). O objetivo da Netscape com a nova linguagem era exatamente o oposto.
 
-```
+```scheme
   (import
     (rnrs)
     (ironscheme clr))
@@ -45,6 +45,7 @@ Obviamente predominou a escolha de uma única linguagem com a sintaxe baseada em
 <center>
 
 *Código de exemplo da linguagem Scheme.*
+
 </center>
 <br>
 
@@ -66,9 +67,26 @@ O lançamento do ECMAScript 6 em 2015 marcou mudanças significativas para abord
 
 Porque você enfrentará constantemente situações em que o JavaScript comum é compatível com ES5 / ES5.1, ES6, ES7 ou ES8.
 
-Será JavaScript da mesma forma, mas não será executado em todos os motores JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES. A seguir, é apresentada uma lista dos principais motores JavaScript e seu suporte a ES:
+Será JavaScript da mesma forma, mas não será executado em todos os motores JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES.
 
- - SpiderMonkey - Usado pelo navegador Firefox e Adobe Acrobat. Suporta ES5.1, recursos do ES6, ES7 e ES8.
- - V8 - Usado pelo navegador Google Chrome, Opera e Node.js. Suporta ES6 e recursos do ES7 e ES8.
- - WebKit - Usado pelo navegador Apple Safari. Suporta ES6 e recursos do ES7 e ES8.
- - Chakra - Usado pelo navegador Microsoft Edge. Suporta ES5.1 e recursos do ES6, além de alguns recursos do ES7.
+### Motores JavaScript
+
+*Para ficar claro, um "motor JavaScript" é basicamente um programa que lê código JavaScript e roda ele.*
+
+A seguir, é apresentada uma lista dos principais motores JavaScript e seu suporte a ES:
+
+##### SpiderMonkey
+
+Usado pelo navegador Firefox e Adobe Acrobat. Suporta ES5.1, recursos do ES6, ES7 e ES8.
+
+##### V8
+
+Usado pelo navegador Google Chrome, Opera e Node.js. Suporta ES6 e recursos do ES7 e ES8.
+
+##### WebKit
+
+Usado pelo navegador Apple Safari. Suporta ES6 e recursos do ES7 e ES8.
+
+##### Chakra
+
+Usado pelo navegador Microsoft Edge. Suporta ES5.1 e recursos do ES6, além de alguns recursos do ES7.
