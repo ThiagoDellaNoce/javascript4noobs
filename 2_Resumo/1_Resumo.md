@@ -38,7 +38,7 @@ Obviamente predominou a escolha de uma única linguagem com a sintaxe baseada em
   (write-ln "{0}" "Hello World!")
 ```
 
-<center> 
+<center>
 
 *Código de exemplo da linguagem Scheme.*
 </center>
@@ -54,13 +54,13 @@ Depois que o JavaScript foi criado, a Microsoft criou, em Agosto de 1996, uma li
 
 Os trabalhos em cima da normativa ECMA-262 começaram em Novembro de 1996. O nome JavaScript já era patenteado pela Sun Microsystems (hoje Oracle) e não poderia ser usado. Portanto, o nome composto por ECMA e JavaScript foi usado, resultando em ECMAScript.
 
-O ECMAScript esteve relativamente estagnado até 2015 com o aparecimento do *ECMAScript 6* - antes disso, o ECMAScript 3 foi publicado em 1999, o ECMAScript 4 foi abandonado, o ECMAScript 5 foi publicado em 2009 e o ECMAScript 5.1 foi publicado em 2011. 
+O ECMAScript esteve relativamente estagnado até 2015 com o aparecimento do *ECMAScript 6* - antes disso, o ECMAScript 3 foi publicado em 1999, o ECMAScript 4 foi abandonado, o ECMAScript 5 foi publicado em 2009 e o ECMAScript 5.1 foi publicado em 2011.
 
 O lançamento do ECMAScript 6 em 2015 marcou mudanças significativas para abordar os recursos exigidos pelo crescimento explosivo do JavaScript. E a velocidade das alterações de recursos foi tão grande que o ECMAScript 7 se tornou realidade em 2016 e o ​​ES8 em 2017. E hoje em dia temos o ECMAScript 11.
 
 #### Por que isso é importante?
 
-Porque você enfrentará constantemente situações em que o JavaScript comum é compatível com ES5 / ES5.1, ES6, ES7 ou ES8. 
+Porque você enfrentará constantemente situações em que o JavaScript comum é compatível com ES5 / ES5.1, ES6, ES7 ou ES8.
 
 Será JavaScript da mesma forma, mas não será executado em todos os mecanismos JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES. A seguir, é apresentada uma lista dos principais mecanismos JavaScript e seu suporte a ES:
 

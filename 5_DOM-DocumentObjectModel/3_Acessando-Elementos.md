@@ -2,7 +2,7 @@
 
  - Métodos para encontrar um ou mais elementos no DOM.
 
-É possível localizar elementos HTML:  
+É possível localizar elementos HTML:
  - por ID;
  - pelo nome da tag;
  - pelo nome da classe;

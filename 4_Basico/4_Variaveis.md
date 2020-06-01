@@ -1,6 +1,6 @@
 # 4.4 - Variáveis
 
-> **Descrição**: 
+> **Descrição**:
   As variáveis ​​podem ser consideradas como contêineres que permitem armazenar dados sobre elas. \
   Isso nos ajudará a escrever o código, permitindo salvar e reutilizar quaisquer dados para atingir seu objetivo.
 
@@ -27,7 +27,7 @@ Em outras palavras, o que determina quais são os dados que podem ser acessados 
 Escopo local basicamente é um bloco que tudo o que for declarado, executado dentro dele somente ira existir nele, exemplo:
 
 ```javascript
-  function soma() { 
+  function soma() {
     var numero = 0
 
     Tudo o que está dentro da chaves é o nosso escopo local
@@ -54,14 +54,14 @@ No JS em especifico até o ES2016 (ECMAScript2016), tinhamos um grande problema 
 Por conta disso evitamos ao máximo o uso da **`var`**, pois a **`let`** nasceu dessa necessidade de podermos declarar variáveis com escopo local dentro de blocos de instrução, exemplo:
 
 ```javascript
-  if(1 == 1) { 
+  if(1 == 1) {
     var x = 'Ela foi criada e inicializada no escopo global da aplicação.'
   }
 
-  console.log(x) /* 
-  conseguimos acessar a variável pois blocos de instrução não criam escopo. 
+  console.log(x) /*
+  conseguimos acessar a variável pois blocos de instrução não criam escopo.
 
-  Se fizermos a mesma verificação e declarar a variável x usando let, conseguimos criar um escopo local para ela: 
+  Se fizermos a mesma verificação e declarar a variável x usando let, conseguimos criar um escopo local para ela:
 
   */
 
@@ -70,7 +70,7 @@ Por conta disso evitamos ao máximo o uso da **`var`**, pois a **`let`** nasceu 
   }
 
   console.log(x) /* <- não conseguimos mais ter acesso a variável. */
-  
+
 ```
 
 E para declaração de constantes, cujo valor é fixo que não serão possíveis atribuir um novo valor, são criada como **`const`**.

@@ -22,8 +22,8 @@ console.log("He4rtDevs <3");
 iniciados com `/*` e terminar com `*/`.
 
 ```javascript
-/* Exemplo de comentário 
+/* Exemplo de comentário
    para várias linhas.
-  
+
    Basta escolher o início e fim. */
 ```

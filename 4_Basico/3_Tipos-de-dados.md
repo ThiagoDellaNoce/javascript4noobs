@@ -4,7 +4,7 @@
 
 - JavaScript é uma linguagem de tipagem dinâmica.
 
-- Isso significa que não necessita declarar o tipo de dado de uma variável antes de sua atribuição. O tipo será automaticamente determinado quando o programa for processado. 
+- Isso significa que não necessita declarar o tipo de dado de uma variável antes de sua atribuição. O tipo será automaticamente determinado quando o programa for processado.
 
 - Você pode reatribuir a uma variável um tipo de dado diferente.
 
@@ -26,7 +26,7 @@ Elas podem ser dos tipos:
 
 Descrição: O tipo `String` em JavaScript é usado para representar textos, ou cadeias de caracteres.
 
-Para declarar strings podemos usar aspas simples ' ', aspas duplas " ", Tudo que estiver dentro das aspas vai ser considerado texto exemplo "1" 
+Para declarar strings podemos usar aspas simples ' ', aspas duplas " ", Tudo que estiver dentro das aspas vai ser considerado texto exemplo "1"
 
 
 
@@ -43,8 +43,8 @@ Descrição: O tipo `Boolean` representa uma entidade lógica e pode ter dois va
 - verdadeiro(`TRUE`) ou
 - falso(`FALSE`).
 
-Normalmente os valores desse tipo, a gente consegue atraves de uma condição por exemplo: 
-    
+Normalmente os valores desse tipo, a gente consegue atraves de uma condição por exemplo:
+
     1 == 1 (mesma coisa que 1 é igual a 1) essa condição nos retorna um valor Boolean, sendo que pode ser `true` ou `false`
 
 ### bigInt

@@ -55,12 +55,9 @@ switch (expression) {
     // codigo para executar
     break;
 
-  // podem ser incluídos quantos casos precisar.  
+  // podem ser incluídos quantos casos precisar.
 
   default:
     // se não for nenhum caso, executa este caso
 }
 ```
-
-
-
