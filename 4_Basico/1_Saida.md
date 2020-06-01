@@ -140,7 +140,7 @@ Caso clique no triângulo:
 
 Descrição: 'Escreve' uma mensagem de erro no Web Console.
 
-```javascript
+```js
 console.error("Erro aqui irmão!");
 // Erro aqui irmão!
 
@@ -152,9 +152,9 @@ console.exception("Erro aqui irmão! mas de outra forma");
 
 ### group
 
-Descrição: cria e separa as mensagens em grupo alinhados.
+Descrição: cria e separa as mensagens em grupos alinhados.
 
-```javascript
+```js
 console.log("Canais do discord");
 console.group();
 console.log("global");
@@ -174,9 +174,11 @@ console.groupEnd();
 
 Descrição: Exibe as informações em forma de tabela.
 
-```javascript
+```js
 console.table("he4rt", "devs", "discord");
 ```
+
+Saída:
 
 | (index) | values  |
 | ------- | ------- |
@@ -184,18 +186,46 @@ console.table("he4rt", "devs", "discord");
 | 1       | devs    |
 | 2       | discord |
 
+Para mais informações e usos, confira a [documentação do console.table()](https://developer.mozilla.org/pt-BR/docs/Web/API/Console/table).
+
 ## Time & TimeEnd
 
-Descrição: `time()` Inicia a contagem de milisegundos de uma operação. `timeEnd()` termina a contagem do tempo, após o inicio do `time()`.
+Descrição:
+`time()` Inicia um cronômetro com precisão de milisegundos.
 
-```javascript
+`timeEnd()` termina e exibe a contagem do tempo.
+
+```js
 console.time();
-for(let i=0; i <10; i++) {
+for(let i = 0; i < 10; ++i) {
     // alguma ação
 };
 console.timeEnd();
+```
 
-// default: TEMPOCRONOMETRADOms
+Saída:
+
+```
+default: 0.00830078125ms
+```
+
+Note que esse tempo cronometrado é só um exemplo, você provavelmente irá receber um valor diferente na sua máquina caso rode o código acima sem alterações.
+
+Note também que o valor cronometrado recebeu o nome de "default", isso pode não ser muito útil, então é interessante que a gente dê um nome quando usarmos essa função:
+
+```js
+const label = 'for vazio';
+
+console.time(label);
+for(let i = 0; i < 100; ++i) {
+};
+console.timeEnd(label);
+```
+
+Saída:
+
+```
+for vazio: 0.030029296875ms
 ```
 
 ### warning
