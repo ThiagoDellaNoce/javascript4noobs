@@ -4,7 +4,11 @@
 
 O JavaScript é uma linguagem de programação interpretada, conhecida também como linguagem de script em alto nível para páginas Web, sendo uma linguagem leve e multi-paradigma, consistindo as três tecnologias principais da World Wide Web.
 
-Permitindo tornar as aplicações interativas, o JavaScript é uma parte essencial da web, compondo a grande maioria dos sites disponíveis e também ganhando um espaço dedicado do mecanismo dos principais navegadores acessíveis.
+Permitindo tornar as aplicações interativas, o JavaScript é uma parte essencial da web, compondo a grande maioria dos sites disponíveis e também ganhando um espaço dedicado do motor dos principais navegadores acessíveis.
+
+**Nota:**
+Nem todos os motores fazem somente interpretação do código.
+Alguns também tem passos de compilação durante a execução, conhecido como JIT (Just In Time), mas não precisa se preocupar com isso por enquanto.
 
 ## História
 
@@ -23,7 +27,7 @@ Em 1995 a Netscape contratou Brendan Eich para criar uma linguagem que proporcio
 
 Obviamente predominou a escolha de uma única linguagem com a sintaxe baseada em Java. O argumento foi que o Scheme, por ter uma sintaxe e complexidade características de linguagens funcionais, se tornaria impopular (conforme o código abaixo). O objetivo da Netscape com a nova linguagem era exatamente o oposto.
 
-```
+```scheme
   (import
     (rnrs)
     (ironscheme clr))
@@ -38,9 +42,10 @@ Obviamente predominou a escolha de uma única linguagem com a sintaxe baseada em
   (write-ln "{0}" "Hello World!")
 ```
 
-<center> 
+<center>
 
 *Código de exemplo da linguagem Scheme.*
+
 </center>
 <br>
 
@@ -54,17 +59,34 @@ Depois que o JavaScript foi criado, a Microsoft criou, em Agosto de 1996, uma li
 
 Os trabalhos em cima da normativa ECMA-262 começaram em Novembro de 1996. O nome JavaScript já era patenteado pela Sun Microsystems (hoje Oracle) e não poderia ser usado. Portanto, o nome composto por ECMA e JavaScript foi usado, resultando em ECMAScript.
 
-O ECMAScript esteve relativamente estagnado até 2015 com o aparecimento do *ECMAScript 6* - antes disso, o ECMAScript 3 foi publicado em 1999, o ECMAScript 4 foi abandonado, o ECMAScript 5 foi publicado em 2009 e o ECMAScript 5.1 foi publicado em 2011. 
+O ECMAScript esteve relativamente estagnado até 2015 com o aparecimento do *ECMAScript 6* - antes disso, o ECMAScript 3 foi publicado em 1999, o ECMAScript 4 foi abandonado, o ECMAScript 5 foi publicado em 2009 e o ECMAScript 5.1 foi publicado em 2011.
 
 O lançamento do ECMAScript 6 em 2015 marcou mudanças significativas para abordar os recursos exigidos pelo crescimento explosivo do JavaScript. E a velocidade das alterações de recursos foi tão grande que o ECMAScript 7 se tornou realidade em 2016 e o ​​ES8 em 2017. E hoje em dia temos o ECMAScript 11.
 
 #### Por que isso é importante?
 
-Porque você enfrentará constantemente situações em que o JavaScript comum é compatível com ES5 / ES5.1, ES6, ES7 ou ES8. 
+Porque você enfrentará constantemente situações em que o JavaScript comum é compatível com ES5 / ES5.1, ES6, ES7 ou ES8.
 
-Será JavaScript da mesma forma, mas não será executado em todos os mecanismos JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES. A seguir, é apresentada uma lista dos principais mecanismos JavaScript e seu suporte a ES:
+Será JavaScript da mesma forma, mas não será executado em todos os motores JavaScript, porque estes estão em constante fluxo para suportar diferentes versões do ES.
 
- - SpiderMonkey - Usado pelo navegador Firefox e Adobe Acrobat. Suporta ES5.1, recursos do ES6, ES7 e ES8.
- - V8 - Usado pelo navegador Google Chrome, Opera e Node.js. Suporta ES6 e recursos do ES7 e ES8.
- - WebKit - Usado pelo navegador Apple Safari. Suporta ES6 e recursos do ES7 e ES8.
- - Chakra - Usado pelo navegador Microsoft Edge. Suporta ES5.1 e recursos do ES6, além de alguns recursos do ES7.
+### Motores JavaScript
+
+*Para ficar claro, um "motor JavaScript" é basicamente um programa que lê código JavaScript e roda ele.*
+
+A seguir, é apresentada uma lista dos principais motores JavaScript e seu suporte a ES:
+
+##### SpiderMonkey
+
+Usado pelo navegador Firefox e Adobe Acrobat. Suporta ES5.1, recursos do ES6, ES7 e ES8.
+
+##### V8
+
+Usado pelo navegador Google Chrome, Opera e Node.js. Suporta ES6 e recursos do ES7 e ES8.
+
+##### WebKit
+
+Usado pelo navegador Apple Safari. Suporta ES6 e recursos do ES7 e ES8.
+
+##### Chakra
+
+Usado pelo navegador Microsoft Edge. Suporta ES5.1 e recursos do ES6, além de alguns recursos do ES7.
