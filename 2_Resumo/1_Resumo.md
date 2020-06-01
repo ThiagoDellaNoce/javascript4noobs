@@ -6,6 +6,10 @@ O JavaScript é uma linguagem de programação interpretada, conhecida também c
 
 Permitindo tornar as aplicações interativas, o JavaScript é uma parte essencial da web, compondo a grande maioria dos sites disponíveis e também ganhando um espaço dedicado do mecanismo dos principais navegadores acessíveis.
 
+**Nota:**
+Nem todos os motores fazem somente interpretação do código.
+Alguns também tem passos de compilação durante a execução, conhecido como JIT (Just In Time), mas não precisa se preocupar com isso por enquanto.
+
 ## História
 
 Tudo nasceu com a Netscape, com a criação do Netscape Navigator,*Imagem 1*, que em pouco tempo o navegador mais dominante dessa década, logo chegou à conclusão que a web teria que se tornar mais dinâmica, pois o Navigator tinha sempre que fazer uma requisição ao servidor para obter uma resposta do navegador.
