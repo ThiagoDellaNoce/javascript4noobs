@@ -45,7 +45,7 @@ Se usado depois da variável, ele subtrai o valor depois retorna.
 ```javascript
 let numero = 2;
 console.log(numero); // 2
-console.log(numero++); // 1
+console.log(numero--); // 1
 console.log(numero); // 1
 ```
 
