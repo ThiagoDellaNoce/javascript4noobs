@@ -46,6 +46,7 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 8. [Estruturas de repetição](/4_Basico/8_Estruturas-de-repeticao.md)
 9. [Funções](/4_Basico/9_Funcoes.md)
 10. [Exceptions](/4_Basico/10_Exceptions.md)
+11. [Operadores de Atribuição](/4_Basico/11_Operadores_de_Atribuicao.md)
 
 ### DOM (Document Object Model)
 1. [Introdução](/5_DOM-DocumentObjectModel/1_Introducao.md)
