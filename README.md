@@ -21,7 +21,7 @@ Bem vindo ao curso de Javascript da He4rt Developers.
 
 Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos trabalhando nos próximos passos para que você ganhe um conhecimento básico para começar a programar em **Javascript**.
 
->*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um **Issue** neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
+>*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um [**Issue**](https://github.com/ThiagoDellaNoce/javascript4noobs/issues) neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
 
 
 ## Módulos
