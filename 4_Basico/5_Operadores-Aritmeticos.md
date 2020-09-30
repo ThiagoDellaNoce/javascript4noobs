@@ -12,7 +12,7 @@ Os operadores aritméticos padrões são:
 Estes operadores trabalham da mesma forma como na maioria das linguagens de programação quando utilizados com números de ponto flutuante.
 
 - **Módulo(Resto da Divisão) (`%`)** Irá retornar o resto da divisão.
-- **Exponencial (`**`)\*\* Retorna o resultado de uma variável elevada a outra.
+- **Exponencial (`**`)** Retorna o resultado de uma variável elevada a outra.
 
 ## Incremento (`++`)
 
