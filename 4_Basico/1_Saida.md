@@ -175,12 +175,12 @@ console.groupEnd();
 Descrição: Exibe as informações em forma de tabela.
 
 ```js
-console.table("he4rt", "devs", "discord");
+console.table(["he4rt", "devs", "discord"]);
 ```
 
 Saída:
 
-| (index) | values  |
+| (index) | Values  |
 | ------- | ------- |
 | 0       | he4rt   |
 | 1       | devs    |
