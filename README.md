@@ -21,7 +21,7 @@ Bem vindo ao curso de Javascript da He4rt Developers.
 
 Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos trabalhando nos próximos passos para que você ganhe um conhecimento básico para começar a programar em **Javascript**.
 
->*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um **Issue** neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
+>*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um [**Issue**](https://github.com/ThiagoDellaNoce/javascript4noobs/issues) neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
 
 
 ## Módulos
@@ -46,7 +46,9 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 8. [Estruturas de repetição](/4_Basico/8_Estruturas-de-repeticao.md)
 9. [Funções](/4_Basico/9_Funcoes.md)
 10. [Exceptions](/4_Basico/10_Exceptions.md)
-11. [Principais métodos de Array](/4_Basico/11_PrincipaisMetodosArray.md)
+11. [Operadores de Atribuição](/4_Basico/11_Operadores_de_Atribuicao.md)
+12. [Principais métodos de Array](/4_Basico/11_PrincipaisMetodosArray.md)
+
 
 ### DOM (Document Object Model)
 1. [Introdução](/5_DOM-DocumentObjectModel/1_Introducao.md)
