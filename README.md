@@ -47,7 +47,7 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 9. [Funções](/4_Basico/9_Funcoes.md)
 10. [Exceptions](/4_Basico/10_Exceptions.md)
 11. [Operadores de Atribuição](/4_Basico/11_Operadores_de_Atribuicao.md)
-12. [Principais métodos de Array](/4_Basico/11_PrincipaisMetodosArray.md)
+12. [Principais métodos de Array](/4_Basico/12_PrincipaisMetodosArray.md)
 
 
 ### DOM (Document Object Model)
