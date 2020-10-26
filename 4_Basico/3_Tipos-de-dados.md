@@ -22,7 +22,6 @@ Elas podem ser dos tipos:
 - null
 - undefined
 
-
 ### Strings
 
 Descrição: O tipo `String` em JavaScript é usado para representar textos, ou cadeias de caracteres.

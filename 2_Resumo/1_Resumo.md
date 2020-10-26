@@ -12,7 +12,7 @@ Alguns também tem passos de compilação durante a execução, conhecido como J
 
 ## História
 
-Tudo nasceu com a Netscape, com a criação do Netscape Navigator,*Imagem 1*, que em pouco tempo o navegador mais dominante dessa década, logo chegou à conclusão que a web teria que se tornar mais dinâmica, pois o Navigator tinha sempre que fazer uma requisição ao servidor para obter uma resposta do navegador.
+Tudo nasceu com a Netscape, com a criação do Netscape Navigator, *Imagem 1*, que em pouco tempo o navegador mais dominante dessa década, logo chegou à conclusão que a web teria que se tornar mais dinâmica, pois o Navigator tinha sempre que fazer uma requisição ao servidor para obter uma resposta do navegador.
 
 <center>
 <br>

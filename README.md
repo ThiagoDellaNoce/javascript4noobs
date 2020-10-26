@@ -23,7 +23,6 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 
 >*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um [**Issue**](https://github.com/ThiagoDellaNoce/javascript4noobs/issues) neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
 
-
 ## Módulos
 
 ### Introdução
@@ -48,7 +47,6 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 10. [Exceptions](/4_Basico/10_Exceptions.md)
 11. [Operadores de Atribuição](/4_Basico/11_Operadores_de_Atribuicao.md)
 12. [Principais métodos de Array](/4_Basico/12_PrincipaisMetodosArray.md)
-
 
 ### DOM (Document Object Model)
 1. [Introdução](/5_DOM-DocumentObjectModel/1_Introducao.md)

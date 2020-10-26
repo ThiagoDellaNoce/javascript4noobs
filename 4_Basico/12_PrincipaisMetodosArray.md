@@ -67,6 +67,7 @@ console.log(apenasNumerosImpares)
  * [ 1, 3, 5 ]
  */
 ```
+
 ## Reduce
 
 Como o nome sugere o metodo reduce é usado para reduzir o array para um único valor.
@@ -80,7 +81,6 @@ Como o nome sugere o metodo reduce é usado para reduzir o array para um único 
 4. Indice ou index: Esse valor é o indice do item dentro do array no qual você está trabalhando.
 
 5. Array original: Você pode pegar todo o array e trabalhar com ele dentro do filter também. 
-
 
 ```javascript
 const numeros = [1,2,3,4,5]

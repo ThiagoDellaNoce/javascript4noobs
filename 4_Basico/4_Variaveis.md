@@ -15,7 +15,6 @@ o problema que temos com a variável `var` é que ela tem um pequeno problema de
 
 ## Mas o que é ESCOPO?
 
-
 > **Descrição**: \
   A grande maioria das linguagens possui o conceito de ESCOPO, e JavaScript não é diferente. \
   ESCOPO é a acessibilidade de objetos, variáveis e funções em diferentes partes do código.
@@ -70,7 +69,6 @@ Por conta disso evitamos ao máximo o uso da **`var`**, pois a **`let`** nasceu 
   }
 
   console.log(x) /* <- não conseguimos mais ter acesso a variável. */
-
 ```
 
 E para declaração de constantes, cujo valor é fixo que não serão possíveis atribuir um novo valor, são criada como **`const`**.
