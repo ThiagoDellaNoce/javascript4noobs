@@ -14,13 +14,13 @@ for ([expressaoInicial]; [condicao]; [incremento]) {
 
 Quando um `for` é executado, ocorre o seguinte:
 
-- A expressão expressao Inicial é inicializada e, caso possível, é executada. Normalmente essa expressão inicializa um ou mais contadores, mas a sintaxe permite expressões de qualquer grau de complexidade. Podendo conter também declaração de variáveis.
+- A expressão `expressaoInicial` é inicializada e, caso possível, é executada. Normalmente essa expressão inicializa um ou mais contadores, mas a sintaxe permite expressões de qualquer grau de complexidade. Podendo conter também declaração de variáveis.
 
-- A expressão condicao é avaliada. caso o resultado de condicao seja `TRUE`, o laço é executado. Se o valor de condicao é `FALSE`, então o laço terminará. Se a expressão condicao é omitida, a condicao é assumida como `TRUE`.
+- A expressão `condicao` é avaliada, caso o resultado de `condicao` seja `TRUE`, o laço é executado. Se o valor de `condicao` é `FALSE`, então o laço terminará. Se a expressão `condicao` é omitida, a `condicao` é assumida como `TRUE`.
 
 - A instrução é executada. Para executar múltiplas declarações, use uma declaração em bloco (`{ ... }`) para agrupá-las.
 
-- A atualização da expressão incremento, se houver, executa, e retorna o controle para o próximo passo.
+- A atualização da expressão `incremento`, se houver, executa, e retorna o controle para o próximo passo.
 
 ### DO ... WHILE
 
@@ -34,7 +34,7 @@ do {
 
 A instrução será executada uma vez antes da condição ser verificada.
 Caso a condicao seja `TRUE`, então o laço será executado novamente.
-Ao final de cada execução, a condicao é verificada.
+Ao final de cada execução, a `condicao` é verificada.
 Quando a condição contida no `while` for `FALSE` a execução do laço é terminada.
 
 ### WHILE

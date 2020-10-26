@@ -6,7 +6,7 @@ O DOM nos dá acesso também aos métodos, os quais são ações que conseguimos
 
 Um exemplo do método é o  `document.getElementById()`, veja a seguir:
 
-```javascript
+```html
     <p id="demo"></p>
 
     <script>
