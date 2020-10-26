@@ -5,7 +5,7 @@ Descrição: Um comentário é uma parte de código que não é interpretada pel
 Claro que idealmente devemos tentar ao máximo deixar nosso código o mais legível possível, usando nomes de variáveis que sejam explícitos no que elas representam. Assim como funções cujos nomes sejam explícitos em relação ao que a função faz.
 Entretanto, em trabalhos em equipe, inevitavelmente lidaremos com pessoas de vários níveis diferentes, então é interessante além de ter o código legível, também ter comentários em trechos que possam ser obscuros para alguns.
 
-Existem dois tipos de comentários em javascript:
+Existem dois tipos de comentários em JavaScript:
 
 ### Comentários de uma única linha de código.
 

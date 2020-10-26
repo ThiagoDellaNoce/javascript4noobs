@@ -8,7 +8,7 @@ Descrição: De longe o tipo mais comum de declaração condicional que você us
 
 ```javascript
 if (condicao) {
-  // codigo para executar caso a condição seja verdadeira
+  // código para executar caso a condição seja verdadeira
 } else {
   // senão, executar este código
 }
@@ -21,7 +21,7 @@ Cada escolha extra requer um bloco adicional para colocar entre `if() { ... }` e
 
 ```javascript
 if (condicao) {
-  // codigo para executar caso a condição seja verdadeira
+  // código para executar caso a condição seja verdadeira
 } else if (outraCondicao) {
   // senão, executar este código caso outra condição seja verdadeira
 }
@@ -35,7 +35,7 @@ Descrição: Os operadores ternários testam uma condição e retorna um valor/e
 condicao ? valor1 : valor2;
 ```
 
-Se condicao for `TRUE`, o operador terá o valor de `valor1`. Caso contrário, terá o valor de `valor2`. Você pode utilizar o operador condicional em qualquer lugar onde utilizaria um operador padrão.
+Se condição for `TRUE`, o operador terá o valor de `valor1`. Caso contrário, terá o valor de `valor2`. Você pode utilizar o operador condicional em qualquer lugar onde utilizaria um operador padrão.
 
 ### SWITCH
 
@@ -48,11 +48,11 @@ Usando o `continue`, encerrará a iteração do loop e continua para o próximo 
 ```javascript
 switch (expression) {
   case choice1:
-    // codigo para executar
+    // código para executar
     break;
 
   case choice2:
-    // codigo para executar
+    // código para executar
     break;
 
   // podem ser incluídos quantos casos precisar.

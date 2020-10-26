@@ -27,7 +27,7 @@ foo *= bar; // foo = foo * bar = 5 * 3
 console.log(foo); // 15
 ```
 
-> *Atenção, diferente de outras linguagens de programação, o Javascript não permite alterar a ordem do operador para realizar as operações. Pode gerar erros ou resultados indesejados.*
+> *Atenção, diferente de outras linguagens de programação, o JavaScript não permite alterar a ordem do operador para realizar as operações. Pode gerar erros ou resultados indesejados.*
 
 Exemplo:
 

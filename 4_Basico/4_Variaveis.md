@@ -33,7 +33,7 @@ Escopo local basicamente é um bloco que tudo o que for declarado, executado den
 
   }
 
-  console.log( numero ) <- não consigo ter acesso a variavel x pois foi declarada dentro do escopo local da funcão soma
+  console.log( numero ) <- não consigo ter acesso a variável x pois foi declarada dentro do escopo local da função soma
 ```
 
 Escopo global é tudo o que for declarado, criado fora do bloco, por conta disso toda a nossa aplicação tem acesso a eles, exemplo:
@@ -48,7 +48,7 @@ Escopo global é tudo o que for declarado, criado fora do bloco, por conta disso
   console.log(numero)
 ```
 
-No JS em especifico até o ES2016 (ECMAScript2016), tinhamos um grande problema ao declarar variáves usando **`var`** dentro de blocos de instrução (IF, FOR, WHILE, etc...) pois esses blocos não criam o seu próprio escopo, o que fazia com que todas as variaveis declaradas com **`var`** dentro dele se tornassem globais.
+No JS em especifico até o ES2016 (ECMAScript2016), tínhamos um grande problema ao declarar variáveis usando **`var`** dentro de blocos de instrução (IF, FOR, WHILE, etc...) pois esses blocos não criam o seu próprio escopo, o que fazia com que todas as variáveis declaradas com **`var`** dentro dele se tornassem globais.
 
 Por conta disso evitamos ao máximo o uso da **`var`**, pois a **`let`** nasceu dessa necessidade de podermos declarar variáveis com escopo local dentro de blocos de instrução, exemplo:
 

@@ -10,7 +10,7 @@
 
 ## Tipos de dados
 
-Descrição: Os tipos de dados em Javascript são basicamente os tipos de valores que podemos manipular com a linguagem.
+Descrição: Os tipos de dados em JavaScript são basicamente os tipos de valores que podemos manipular com a linguagem.
 
 Elas podem ser dos tipos:
 
@@ -26,7 +26,7 @@ Elas podem ser dos tipos:
 
 Descrição: O tipo `String` em JavaScript é usado para representar textos, ou cadeias de caracteres.
 
-Para declarar strings podemos usar aspas simples ' ', aspas duplas " ", Tudo que estiver dentro das aspas vai ser considerado texto exemplo "1".
+Para declarar strings podemos usar aspas simples ' ' ou aspas duplas " ". Tudo que estiver dentro das aspas vai ser considerado texto exemplo "1".
 
 Mais para a frente iremos ver que existe ainda uma terceira forma que usa crases:
 
@@ -41,9 +41,9 @@ No código acima, o motor JavaScript iria processar a `template string` de forma
 
 ### Numbers
 
-Descrição: O tipo `Number` é usado para reprensetar números, independente se for um número inteiro tipo `7` ou um número real como `32.4`.
+Descrição: O tipo `Number` é usado para representar números, independente se for um número inteiro tipo `7` ou um número real como `32.4`.
 
-Para declarar números não tem muito segredo, simplemente atribua o número.
+Para declarar números não tem muito segredo, simplesmente atribua o número.
 
 Note que o valor de exemplo acima usa ponto e não vírgula para separar os decimais, afinal a linguagem utiliza o padrão Inglês.
 
@@ -54,7 +54,7 @@ Descrição: O tipo `Boolean` representa uma entidade lógica e pode ter dois va
 - verdadeiro(`true`) ou
 - falso(`false`).
 
-Normalmente os valores desse tipo, a gente consegue atraves da avaliação de uma condição, por exemplo:
+Normalmente os valores desse tipo, a gente consegue através da avaliação de uma condição, por exemplo:
 
 ```
 1 == 1 (mesma coisa que 1 é igual a 1)
@@ -64,14 +64,14 @@ essa condição nos retorna um valor booleano, nesse caso, `true`
 
 ### bigInt
 
-Descrição: É um tipo de dado numérico que representa inteiros no formato de precisão arbritrária. Em outras linguagens de programação existem tipos numéricos diferentes, como por exemplo: Integers, Floats, Doubles ou Bignums.
+Descrição: É um tipo de dado numérico que representa inteiros no formato de precisão arbitrária. Em outras linguagens de programação existem tipos numéricos diferentes, como por exemplo: Integers, Floats, Doubles ou Bignums.
 
 ### Arrays
 
-Descrição: `Array` é uma variável ​​que contêm vários valores. ele é comumente usados ​​para armazenar um grupo de valores relacionados.
+Descrição: `Array` é uma variável ​​que contêm vários valores. Ele é comumente usados ​​para armazenar um grupo de valores relacionados.
 
 Os `Arrays` podem armazenar quaisquer outro tipo de dados.
-Podemor ter um array de arrays, array de objetos, array de números, strings, booleanos, etc...
+Podemos ter um array de arrays, array de objetos, array de números, strings, booleanos, etc...
 
 Podemos declarar um `Array` com colchetes [ ], todo e qualquer tipo de dados que estiver dentro dele vai ser armazenado, exemplos:
 
@@ -91,7 +91,7 @@ Descrição: Os objetos são muito semelhantes aos `Arrays`, pois são variávei
 No entanto, os objetos têm uma propriedade-chave que ajuda a dar mais significado às informações armazenadas neles.
 
 Podemos declarar `Objetos literais` utilizando chaves `{ }`.
-Segue a mesma regra dos `Arrays` porem devemos informar uma chave para eles e para cada chave/valor devemos colocar uma virgula para informamos a proxima chave/valor, exemplo
+Segue a mesma regra dos `Arrays` porem devemos informar uma chave para eles e para cada chave/valor devemos colocar uma virgula para informamos a proxima chave/valor, exemplo:
 
 ```js
 const professor = {
