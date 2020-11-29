@@ -1,6 +1,6 @@
 # 5.1 - Introdução a DOM (Documento Object Model)
 
-Descrição: Sempre que uma página é carregada, o navegador cria um *DOM* (Document Object Model ) para a gente.
+Descrição: Sempre que uma página é carregada, o navegador cria um *DOM* (Document Object Model) para a gente.
 
 Com este *DOM* criado, podemos acessar e mudar qualquer elemento utilizando o javascript.
 
@@ -15,4 +15,4 @@ O DOM define:
 - Os métodos,
 - Os eventos.
 
-Basicamente, o DOM define um maneira de pegar(`get`), mudar(`change`), adicionar(`set`), ou deletar(`delete`) cada elemento HTML no DOM.
+Basicamente, o DOM define um maneira de pegar(`get`), mudar(`change`), adicionar(`set`) ou deletar(`delete`) cada elemento HTML no DOM.

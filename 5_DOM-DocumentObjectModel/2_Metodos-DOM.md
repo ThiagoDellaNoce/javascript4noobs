@@ -6,11 +6,12 @@ O DOM nos dá acesso também aos métodos, os quais são ações que conseguimos
 
 Um exemplo do método é o  `document.getElementById()`, veja a seguir:
 
-```javascript
+```html
     <p id="demo"></p>
 
     <script>
-    document.getElementById("demo").innerHTML = "He4rt Devs!";
+        document.getElementById("demo").innerHTML = "He4rt Devs!";
     </script>
 ```
+
 Neste exemplo, usamos o método `getElementById` e a propriedade `innerHTML`.

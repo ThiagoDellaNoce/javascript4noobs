@@ -6,7 +6,7 @@ Uma função é definida pela palavra reservada `function`, seguida por um _nome
 
 - Os nomes das funções podem conter letras, números, sublinhado e caracteres especiais.
 
-- Dentro dos parenteses, você insere os parametros - os parametros são dados enviados a função, aos quais serão processados pela função.
+- Dentro dos parenteses, você insere os parâmetros - os parâmetros são dados enviados a função, aos quais serão processados pela função.
 
 - O código a ser executado pela função, deve estar dentro de Chaves `{}`
 
@@ -27,7 +27,7 @@ function multiplicar(param1, param2) {
   return result;
 }
 
-// chamar a função passando os parametros
+// chamar a função passando os parâmetros
 let resultado = multiplicar(2, 2);
 
 console.log(resultado); // mostra no console o resultado (4)

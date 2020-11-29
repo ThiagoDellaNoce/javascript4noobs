@@ -16,7 +16,7 @@ Os eventos podem ser quando:
 
 - Para atribuir eventos a elementos HTML, você pode usar atributos de evento.
 
-```javascript
+```html
 <button onclick="fazAlgumaCoisa()">Try it</button>
 ```
 
@@ -36,7 +36,7 @@ document.getElementById("myBtn").onclick = fazAlgumaCoisa;
 
 - Os eventos `onload` e `onunload` podem ser usados ​​para lidar com cookies.
 
-```javascript
+```html
 <body onload="checkCookies()">
 ```
 
@@ -44,7 +44,7 @@ document.getElementById("myBtn").onclick = fazAlgumaCoisa;
 
 - O evento `onchange` é frequentemente usado em combinação com a validação dos campos de entrada.
 
-```javascript
+```html
 <input type="text" id="fname" onchange="upperCase()">
 ```
 
@@ -52,7 +52,7 @@ document.getElementById("myBtn").onclick = fazAlgumaCoisa;
 
 - Os eventos `onmouseover` e `onmouseout` podem ser usados ​​para disparar uma função quando o usuário passa o mouse sobre ou fora de um elemento HTML:
 
-```javascript
+```html
 <div onmouseover="mOver(this)" onmouseout="mOut(this)">
   Mouse Over Me
 </div>
@@ -62,7 +62,7 @@ document.getElementById("myBtn").onclick = fazAlgumaCoisa;
 
 - Os eventos `onmousedown`, `onmouseup` e `onclick` são todos partes de um clique do mouse. Primeiro, quando um botão do mouse é clicado, o evento `onmousedown` é acionado; depois, quando o botão do mouse é liberado, o evento `onmouseup` é acionado; finalmente, quando o clique do mouse é concluído, o evento `onclick` é acionado.
 
-```javascript
+```html
 <div onmousedown="mDown(this)" onmouseup="mUp(this)">
   Click Me
 </div>
@@ -72,6 +72,6 @@ document.getElementById("myBtn").onclick = fazAlgumaCoisa;
 
 - Altera atributos quando um campo de entrada recebe o foco.
 
-```javascript
+```html
 <input type="text" onfocus="myFunction(this)">
 ```

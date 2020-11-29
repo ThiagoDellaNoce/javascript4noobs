@@ -191,7 +191,7 @@ Para mais informações e usos, confira a [documentação do console.table()](ht
 ## Time & TimeEnd
 
 Descrição:
-`time()` Inicia um cronômetro com precisão de milisegundos.
+`time()` Inicia um cronômetro com precisão de milissegundos.
 
 `timeEnd()` termina e exibe a contagem do tempo.
 
