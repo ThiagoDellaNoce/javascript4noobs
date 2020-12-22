@@ -1,4 +1,5 @@
 # Javascript4Noobs
+
 <p align="center">
   <img src="./assets/javascript.png" alt="javascript">
 
@@ -21,20 +22,24 @@ Bem vindo ao curso de Javascript da He4rt Developers.
 
 Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos trabalhando nos próximos passos para que você ganhe um conhecimento básico para começar a programar em **JavaScript**.
 
->*Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um [**Issue**](https://github.com/ThiagoDellaNoce/javascript4noobs/issues) neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto.*
+> _Como estaremos usando inicialmente o Github para a hospedagem deste material, pedimos para que no caso de qualquer dúvida ou até sugestões de melhoria, que você cria um [**Issue**](https://github.com/ThiagoDellaNoce/javascript4noobs/issues) neste mesmo repositório, assim, conseguimos resolver essas questões dentro do nosso projeto._
 
 ## Módulos
 
 ### Introdução
+
 1. [Hello World](/1_Introducao/1_Hello-World.md)
 
 ### Resumo
+
 1. [Resumo](/2_Resumo/1_Resumo.md)
 
 ### Ambiente
+
 1. [Editores e plugins](/3_Ambiente/1_Editores-e-plugins.md)
 
 ### Básico
+
 1. [Saída](/4_Basico/1_Saida.md)
 2. [Comentários](/4_Basico/2_Comentarios.md)
 3. [Tipos de dados](/4_Basico/3_Tipos-de-dados.md)
@@ -47,8 +52,10 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 10. [Exceptions](/4_Basico/10_Exceptions.md)
 11. [Operadores de Atribuição](/4_Basico/11_Operadores_de_Atribuicao.md)
 12. [Principais métodos de Array](/4_Basico/12_PrincipaisMetodosArray.md)
+13. [Entendendo o this](/4_Basico/13_Entendendo_o_this.md)
 
 ### DOM (Document Object Model)
+
 1. [Introdução](/5_DOM-DocumentObjectModel/1_Introducao.md)
 2. [Métodos do DOM](/5_DOM-DocumentObjectModel/2_Metodos-DOM.md)
 3. [Métodos de Acesso ao DOM](/5_DOM-DocumentObjectModel/3_Acessando-Elementos.md)
