@@ -177,3 +177,40 @@ const elementoRemovido = numeros.shift()
 console.log(numeros) // Saida: [2, 3, 4, 5]
 console.log(elementoRemovido) // Saida: 1
 ```
+
+## Includes
+Este método é responsável por verificiar se determinado valor passado como argumento está incluso no array. Seu retorno é um boolean que indica se o item existe ou não no array.
+
+### Argumentos
+Valor que será verificado se está incluso ou não no array.
+
+```javascript
+const numbers = [1, 2, 3]
+
+const numero3EstaIncluso = numbers.includes(3)
+console.log(numero3EstaIncluso) // Saída: true
+```
+
+## Find
+Trata-se de um método responsável por retornar o item que primeiro satisfazer a função de callback passada como argumento deste método.
+
+### Argumentos
+1. Função de callback que será executada para cada item, podendo receber os seguintes parâmetros:
+    1. item atual que está sendo iterado;
+    2. index do item atual que está sendo iterado (opcional);
+    3. array que está sendo iterado (opcional).
+    
+```javascript
+const dogs = [
+    { name: 'Tulipa', age: 4 },
+    { name: 'Thor', age: 10 },
+    { name: 'Bolinha', age: 3 },
+    { name: 'Zequinha', age: 6 }
+]
+
+const zequinha = dogs.find(item => {
+    return item.name === 'Zequinha'
+})
+
+console.log(zequinha) // Saída: { name: 'Zequinha', age: 6 }
+```
