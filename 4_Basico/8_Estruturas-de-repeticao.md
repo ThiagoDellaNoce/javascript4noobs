@@ -76,3 +76,5 @@ for (numero of numeros) {
 
 // resultado: 0, 1, 2, 3, 4
 ```
+
+[Proximo Capitulo](./9_Funcoes.md)

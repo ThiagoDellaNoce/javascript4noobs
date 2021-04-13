@@ -121,3 +121,5 @@ Descrição: O tipo `Null` tem exatamente um valor: `null`(nulo).
 O tipo `Undefined` é um valor um tanto único.
 Uma variável que não tenha recebido nenhum valor específico, assume o valor `undefined` (indefinido).
 Outra forma de se obter `undefined` seria tentar pegar o retorno de uma função que não retorna nada, ou mesmo tentar acessar um parâmetro de função que não tenha recebido um argumento, mas isso veremos mais para a frente.
+
+[Proximo Capitulo](./4_Variaveis.md)

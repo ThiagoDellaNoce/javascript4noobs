@@ -9,3 +9,6 @@
 | document.appendChild(element)   | Adicionar um elemento HTML     |
 | document.replaceChild(new, old) | Substituir um elemento HTML    |
 | document.write(text)            | Escreva no fluxo de saída HTML |
+
+
+[Proximo Capitulo](./6_Event-Handlers.md)

@@ -38,3 +38,5 @@ Usado pelo navegador Apple Safari. Suporta ES6 e recursos do ES7 e ES8.
 ##### Chakra
 
 Usado pelo navegador Microsoft Edge. Suporta ES5.1 e recursos do ES6, além de alguns recursos do ES7.
+
+[Proximo Capitulo](../2_Resumo/1_Resumo.md)

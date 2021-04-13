@@ -29,3 +29,4 @@ document.getElementById(id).attribute = new value;
 ```javascript
 document.getElementById(id).style.property = new style;
 ```
+[Proximo Capitulo](./5_Removendo-Elementos.md)
