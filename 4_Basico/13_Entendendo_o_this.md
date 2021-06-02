@@ -43,7 +43,7 @@ console.log(c);
 
 ### O escopo global: node.
 
-Como dito anteriormente, a palavra this permite que possamos acessar esocopos mais elevados do que estamos, sendo o mais alto deles o escopo do próprio node, ganhando acesso a propriedades como o prototype dos objetos, podemos, então, definir uma nova constante dentro da própria classe Object usando o this.
+Como dito anteriormente, a palavra this permite que possamos acessar escopos mais elevados do que estamos, sendo o mais alto deles o escopo do próprio node, ganhando acesso a propriedades como o prototype dos objetos, podemos, então, definir uma nova constante dentro da própria classe Object usando o this.
 
 ```javascript
 
