@@ -19,3 +19,5 @@
 | document.getElementsByTagName(tag)         | Encontra um elemento pela sua tag HTML                                             |
 | document.querySelector(nome)               | Encontra o primeiro elemento com o valor informado (id, nome, tag, data-attribute) |
 | document.querySelectorAll(name)            | Encontra todos os elementos com o valor informado (id, nome, tag, data-attribute)  |
+
+[Proximo Capitulo](./4_Alterando-Elementos.md)

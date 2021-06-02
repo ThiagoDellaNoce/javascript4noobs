@@ -79,3 +79,5 @@ console.log(+true); // 1
 console.log(+false); // 0
 console.log(+null); // 0
 ```
+
+[Proximo Capitulo](./6_Operadores-Logicos.md)

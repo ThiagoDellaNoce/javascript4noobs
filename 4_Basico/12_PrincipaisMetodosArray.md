@@ -177,3 +177,5 @@ const elementoRemovido = numeros.shift()
 console.log(numeros) // Saida: [2, 3, 4, 5]
 console.log(elementoRemovido) // Saida: 1
 ```
+
+[Proximo Capitulo](./13_Entendendo_o_this.md)

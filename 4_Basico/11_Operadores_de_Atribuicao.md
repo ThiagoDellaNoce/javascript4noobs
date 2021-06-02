@@ -43,3 +43,5 @@ console.log(foo); // -9
 foo =* 5; // Erro de sintaxe
 console.log(foo); // Não é executado pois ocorreu um erro na linha anterior
 ```
+
+[Proximo Capitulo](./12_PrincipaisMetodosArray.md)

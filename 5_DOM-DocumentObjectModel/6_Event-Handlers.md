@@ -75,3 +75,5 @@ document.getElementById("myBtn").onclick = fazAlgumaCoisa;
 ```html
 <input type="text" onfocus="myFunction(this)">
 ```
+
+[Proximo Capitulo](./7_Event-Listener.md)

@@ -31,3 +31,5 @@ As únicas exceções a esta regra são os operadores `===` e o `!==`, que reali
 - **Menor que (<)** = Retorna `TRUE` caso o operando da esquerda seja menor que o da direita.
 
 - **Menor que ou igual (<=)** = Retorna `TRUE` caso o operando da esquerda seja menor ou igual ao da direita.
+
+[Proximo Capitulo](./7_Condicionais.md)

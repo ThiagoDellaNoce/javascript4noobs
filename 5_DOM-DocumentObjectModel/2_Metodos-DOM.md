@@ -15,3 +15,4 @@ Um exemplo do método é o  `document.getElementById()`, veja a seguir:
 ```
 
 Neste exemplo, usamos o método `getElementById` e a propriedade `innerHTML`.
+[Proximo Capitulo](./3_Acessando-Elementos.md)

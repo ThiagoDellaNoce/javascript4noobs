@@ -16,3 +16,5 @@ O DOM define:
 - Os eventos.
 
 Basicamente, o DOM define um maneira de pegar(`get`), mudar(`change`), adicionar(`set`) ou deletar(`delete`) cada elemento HTML no DOM.
+
+[Proximo Capitulo](./2_Metodos-DOM.md)
