@@ -64,6 +64,9 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 6. [Event Handlers](/5_DOM-DocumentObjectModel/6_Event-Handlers.md)
 7. [Event Listener](/5_DOM-DocumentObjectModel/7_Event-Listener.md)
 
+### Atividades
+1. [Atividades](/6_Atividades/Atividades.txt)
+
 ## Autores
 
 - **Thiago Della Noce** - _Front-end Developer_ - [Linkedin](https://www.linkedin.com/in/thiagodellanoce/)
