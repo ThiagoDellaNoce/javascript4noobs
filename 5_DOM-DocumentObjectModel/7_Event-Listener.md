@@ -13,3 +13,5 @@ element.addEventListener(event, function);
 1. O primeiro parâmetro é o tipo de evento (como explicado em [Event Handlers](/5_DOM-DocumentObjectModel/7_Event-Handlers.md)).
 
 2. O segundo parâmetro é a função que queremos chamar quando o evento ocorrer.
+
+[Atividades](../6_Atividades/Atividades.txt)
