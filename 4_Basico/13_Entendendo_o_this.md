@@ -58,3 +58,4 @@ O this é uma palavra poderosa dentro do Javascript, porém perigosa. O uso dele
 
 É preferível que crie-se classes ou componentes e os importe ( via sistema de módulos) do que usar descontroladamente o this.
 
+[Proximo Capitulo](../5_DOM-DocumentObjectModel/1_Introducao.md)
