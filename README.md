@@ -66,6 +66,7 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 
 ### Atividades
 1. [Atividades](/6_Atividades/Atividades.txt)
+2. [40 Atividades Básicas de Javacript](https://github.com/gabrieldarezzo/helpjs-ravi)
 
 ## Autores
 
