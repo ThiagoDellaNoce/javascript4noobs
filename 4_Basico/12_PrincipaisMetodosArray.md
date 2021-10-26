@@ -178,4 +178,30 @@ console.log(numeros) // Saida: [2, 3, 4, 5]
 console.log(elementoRemovido) // Saida: 1
 ```
 
+## Concat
+
+O método concat concatena os dados de um ou mais arrays
+
+### Argumentos
+
+1. Array a se concatenar
+
+```javascript
+const comidas = ["Cereal","Sanduíche","Mingau"]
+const bebidas = ["Café","Suco de Laranja"]
+const cafeDaManha = comidas.concat(bebidas)
+console.log(cafeDaManha) // Saida: ["Cereal","Sanduíche","Mingau","Café","Suco de Laranja"]
+```
+
+## Length
+
+O método length retorna o tamanho de um array
+> length não recebe parâmetros
+
+```javascript
+const linguagens = ["Javascript","C#","PHP","Golang"]
+const tamanho = linguagens.length
+console.log(tamanho) // Saida: 4
+```
+
 [Proximo Capitulo](./13_Entendendo_o_this.md)
