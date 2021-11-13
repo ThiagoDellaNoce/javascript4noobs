@@ -204,4 +204,32 @@ const tamanho = linguagens.length
 console.log(tamanho) // Saida: 4
 ```
 
+## Every
+
+O método every passa por todos elementos do array, verificando se todos os elementos do array obedecem ao critério retornando `true` ou `falso`
+
+### Argumentos
+
+1. Elementos a serem verificados
+
+```javascript
+const numbers = [2,4,6,8,10,12]
+users.every(numbers => number%2 == 0) //true pois verificou que todos os numeros são pares
+```
+
+## Some
+
+O método some passa por todos elementos do array, verificando se pelo menos 1 dos elementos obedece as condições e retorna `true`
+
+### Argumentos
+
+1. Elementos a serem verificados
+
+```javascript
+const users = ["Luiz","Carla","Daniel","Vanessa"]
+users.some(user => user === "Daniel") { //true pois o usuário Daniel já existe dentro do array
+    console.log("User already exists!");
+}
+```
+
 [Proximo Capitulo](./13_Entendendo_o_this.md)
