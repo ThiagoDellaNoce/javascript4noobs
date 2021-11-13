@@ -68,6 +68,17 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 1. [Atividades](/6_Atividades/Atividades.txt)
 2. [40 Atividades Básicas de Javacript](https://github.com/gabrieldarezzo/helpjs-ravi)
 
+# Como Contribuir com o 4noobs
+
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
+são **extremamente apreciadas**
+
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
+3. Realize o Commit (`git commit -m 'Add some featureBraba'`)
+4. Realize o Push no Branch (`git push origin feature/featureBraba`)
+5. Abra um Pull Request
+
 ## Autores
 
 - **Thiago Della Noce** - _Front-end Developer_ - [Linkedin](https://www.linkedin.com/in/thiagodellanoce/)
