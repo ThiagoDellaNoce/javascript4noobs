@@ -53,6 +53,7 @@ Ficamos muito felizes de você ter chegado até aqui em nosso curso! Estaremos t
 11. [Operadores de Atribuição](/4_Basico/11_Operadores_de_Atribuicao.md)
 12. [Principais métodos de Array](/4_Basico/12_PrincipaisMetodosArray.md)
 13. [Entendendo o this](/4_Basico/13_Entendendo_o_this.md)
+14. [Objetos](/4_Basico/14_Objetos.md)
 
 ### DOM (Document Object Model)
 
