@@ -51,4 +51,44 @@ var fibonacci = function (num) {
 
 console.log(fibonacci(10)); // 55
 ```
+
+### Função auto-invocável
+
+IIFE (Immediately Invoked Function Expression)
+
+É uma função anônima entre parênteses, seguida por outro par de parênteses, que representa sua chamada e vai ser executada assim que o arquivo for executado. 
+
+```jsx
+(
+	function() {
+		let name = 'salve quebrada!'
+		return name;
+	}
+)();
+
+//salve quebrada!
+```
+
+Também pode ser utilizada com parâmetros ou armazenar o seu retorno em uma variável.  
+
+```jsx
+(
+	function(a, b) {
+		return a+b;
+	}
+)(1, 2);
+// Imediatamente gera a saída:
+//3
+
+
+//armazenando o valor em uma variavel
+const soma = (
+    function(a, b) {
+        return a+b;
+    }
+)(1, 2);
+// Imediatamente gera a saída: 
+soma // "3"
+```
+
 [Proximo Capitulo](./10_Exceptions.md)
