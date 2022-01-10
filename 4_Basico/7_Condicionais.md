@@ -37,6 +37,14 @@ condicao ? valor1 : valor2;
 
 Se condição for `TRUE`, o operador terá o valor de `valor1`. Caso contrário, terá o valor de `valor2`. Você pode utilizar o operador condicional em qualquer lugar onde utilizaria um operador padrão.
 
+Outra maneira de utilizarmos o operador ternário é usá-lo para simplificar a condicional if...else if...else.
+
+```javascript
+condicao ? valor1 : outraCondicao ? valor2 : valor3;
+```
+
+Se condição for `TRUE`, o operador terá o valor de `valor1`. Caso contrário, irá para a `outraCondicao` e se for `TRUE`, o operador terá o valor de `valor2` e por último se não corresponder a nenhuma condição caíra no else e o operador terá o valor de `valor3`. Você pode utilizar o operador condicional em qualquer lugar onde utilizaria um operador padrão.
+
 ### SWITCH
 
 Descrição: Em alguns casos você terá diversas condições, este é o trabalho do `switch`.
@@ -61,4 +69,23 @@ switch (expression) {
     // se não for nenhum caso, executa este caso
 }
 ```
+
+Outro exemplo de uso do switch é o `Multi-caso: Operação Simples` (Multi-case : single operation)
+
+Utilizar esse método tem a vantagem de não ter um `break` depois do case e continuara sendo executado mesmo que o critério não seja correspondido.
+
+No exemplo abaixo temos uma operação sequencial simples, onde três valores diferentes retornam a mesma coisa
+
+```javascript
+var Color = 'Red';
+switch (Color) {
+  case 'Pink':
+  case 'Purple':
+  case 'Orange':
+    console.log('This is not a primary color.');
+    break;
+  case 'Blue':
+  default:
+    console.log('This is a primary color.');
+}
 [Proximo Capitulo](./8_Estruturas-de-repeticao.md)
