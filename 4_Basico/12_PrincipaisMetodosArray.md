@@ -214,7 +214,7 @@ O método every passa por todos elementos do array, verificando se todos os elem
 
 ```javascript
 const numbers = [2,4,6,8,10,12]
-users.every(numbers => number%2 == 0) //true pois verificou que todos os numeros são pares
+numbers.every(number => number%2 == 0) //true pois verificou que todos os numeros são pares
 ```
 
 ## Some
@@ -227,7 +227,7 @@ O método some passa por todos elementos do array, verificando se pelo menos 1 d
 
 ```javascript
 const users = ["Luiz","Carla","Daniel","Vanessa"]
-users.some(user => user === "Daniel") { //true pois o usuário Daniel já existe dentro do array
+if (users.some(user => user === "Daniel")) { //true pois o usuário Daniel já existe dentro do array
     console.log("User already exists!");
 }
 ```

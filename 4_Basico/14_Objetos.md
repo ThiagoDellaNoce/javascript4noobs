@@ -13,7 +13,7 @@ let he4rt = {
     devs: "Incríveis"
 };
 ```
-Nesse exemplo, temos o objeto "he4rt", onde as chaves desse objeto são "comunidade" e "devs". Essas chaves também pode contem outros objetos, funções etc.
+Nesse exemplo, temos o objeto "he4rt", onde as chaves desse objeto são "comunidade" e "devs". Essas chaves também podem conter outros objetos, funções etc.
 
 Também é possível criar um objeto vazio através do "object constructor". Exemplo:
 ```javascript
@@ -59,7 +59,7 @@ console.log(he4rt) // {comunidade: "Ativa"}
 
 ### Acessando objetos
 
-Agora que conseguimos manipular criação e como deletar chaves num objeto, como podemos imprimir a frase "Hello World" usando duas keys dentro de um objeto? Simples.
+Agora que conseguimos manipular a criação e como deletar chaves num objeto, como podemos imprimir a frase "Hello World" usando duas keys dentro de um objeto? Simples.
 
 ```javascript
 let helloWorld = {

@@ -69,7 +69,7 @@ seja informado, seu valor padrão deverá ser false, portanto, a lógica será e
 
 Exemplo: 
 
-estaEntre(10, 100, 50) // retornará true
+estaEntre(10, 10, 50) // retornará true
 estaEntre(16, 100, 160) // retornará false
 
 ----------------------------------------------------------------------------------------------------------
