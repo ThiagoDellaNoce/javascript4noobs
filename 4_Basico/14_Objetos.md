@@ -71,4 +71,4 @@ console.log(helloWorld.hello + helloWorld.world) // Hello World
 ```
 Aqui, estou dizendo para. entrar em "helloWorld" e acessar "hello." Dessa forma, o "console.log" conseguiu imprimir a string da chave.
 
-[Proximo Capitulo](../5_DOM-DocumentObjectModel/1_Introducao.md)
+[Proximo Capitulo](./15_Promise.md)

@@ -88,4 +88,6 @@ switch (Color) {
   default:
     console.log('This is a primary color.');
 }
-[Proximo Capitulo](./8_Estruturas-de-repeticao.md)
+```
+
+[Proximo Capitulo](./8_Estruturas-de-repeticao.d)

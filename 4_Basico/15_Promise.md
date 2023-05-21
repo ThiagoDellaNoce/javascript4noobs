@@ -114,3 +114,5 @@ function calcular(soma1, soma2) {
 Então o retorno para este caso será:
 
 ![retorno do catch](../assets/promise_catch_result.png)
+
+[Proximo Capitulo](../5_DOM-DocumentObjectModel/1_Introducao.md)
